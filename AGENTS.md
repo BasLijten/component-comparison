@@ -9,6 +9,8 @@ Compares UI components across multiple brand websites to identify overlap, namin
 Input: Sitecore CMS analysis reports per brand (HTML with embedded screenshots + JSON component manifests).  
 Output: A Next.js web app at `src/` showing which components exist per brand, how often they're used, which components across brands are likely the same thing under different names, and a manual review workflow for confirming or rejecting similarity matches.
 
+This comparison tool helps the client understand how much of their UI is shared vs unique across brands, identify opportunities for consolidation or differentiation, and maintain a single source of truth for component usage and naming. Everything is build with asp.net full framework, Sitecore MVC, angular, vue or vanilla js. We are about to migrate to a new CMS, where we are building a new design system. This tool will help us to identify which type of components we have, and helps us investigate what can be build once, and what should be build specific. The new technology will be react, the new design system will support multiple brands, with variations based on css tokens.
+
 ---
 
 ## Key Files for Agents
