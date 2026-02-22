@@ -1,0 +1,732 @@
+{
+  "components": {
+    "ChatWidget": {
+      "selector": "cb-genesys-chat-start-button",
+      "description": ""
+    },
+    "Personalised tile": {
+      "selector": ".strip.tile-navigation",
+      "description": ""
+    },
+    "Personalised tile row": {
+      "selector": "div[qa-id$=\"personalised-tile-row\"]",
+      "description": ""
+    },
+    "Link Column Item": {
+      "selector": ".collapsable.collapsable--arrow.collapsable--show-md",
+      "description": ""
+    },
+    "SiteHeader": {
+      "selector": ".siteheader",
+      "description": ""
+    },
+    "CalamiteitenBanner": {
+      "selector": ".calamiteiten-banner",
+      "description": ""
+    },
+    "SettingsFoldout": {
+      "selector": ".site-header__control-panel",
+      "description": ""
+    },
+    "Footer": {
+      "selector": ".footer",
+      "description": ""
+    },
+    "Hero v4": {
+      "selector": ".strip.hero-v4",
+      "description": ""
+    },
+    "Tiles gepersonaliseerd v1": {
+      "selector": null,
+      "description": ""
+    },
+    "Afbeelding v1": {
+      "selector": ".strip.afbeelding",
+      "description": ""
+    },
+    "Focus mediaoverzicht lijst v1": {
+      "selector": ".strip.media-list-overview",
+      "description": ""
+    },
+    "Linkkolommen v1": {
+      "selector": ".strip.linkcolumns",
+      "description": ""
+    },
+    "Toptaak": {
+      "selector": "li.list__item:has(.icon-link)",
+      "description": ""
+    },
+    "Toptaken": {
+      "selector": ".sidebar__component.toptaken",
+      "description": ""
+    },
+    "TextCard": {
+      "selector": ".card.card--size-small:has(h3+p)",
+      "description": ""
+    },
+    "ImageCard": {
+      "selector": ".card.card--size-large:has(.card__image)",
+      "description": ""
+    },
+    "ProductIntroContentComponent": {
+      "selector": null,
+      "description": ""
+    },
+    "Intro product v1": {
+      "selector": ".strip.intro-product",
+      "description": ""
+    },
+    "Content v1": {
+      "selector": null,
+      "description": ""
+    },
+    "Weetjes v1": {
+      "selector": ".strip.weetjes",
+      "description": ""
+    },
+    "Statische contact card": {
+      "selector": ".card-deck:has(.card)",
+      "description": ""
+    },
+    "Intro detail v1": {
+      "selector": ".strip.page-intro.page-intro--detail",
+      "description": ""
+    },
+    "TelefoonnummerGewijzigdApp": {
+      "selector": "article:has(cb-prive-algemeen-telefoonnummer-gewijzigd-app)",
+      "description": ""
+    },
+    "AccountAanmakenFunnel": {
+      "selector": "article:has(cb-prive-algemeen-account-aanmaken-funnel)",
+      "description": ""
+    },
+    "FocusHeader": {
+      "selector": ".header-focus__wrapper",
+      "description": ""
+    },
+    "FocusFooter": {
+      "selector": ".strip.focus-footer",
+      "description": ""
+    },
+    "AccountActiverenFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "Content accordion v1": {
+      "selector": ".strip.main-content.content-accordion",
+      "description": ""
+    },
+    "ColumnContentComponent": {
+      "selector": null,
+      "description": ""
+    },
+    "Content": {
+      "selector": ".card__body[style=\"display: block;\"]",
+      "description": ""
+    },
+    "Kolommen v1": {
+      "selector": "article:has(.col-md-8)",
+      "description": ""
+    },
+    "CodeKwijtAppV2": {
+      "selector": null,
+      "description": ""
+    },
+    "Carousel": {
+      "selector": ".sidebar__component.carousel",
+      "description": ""
+    },
+    "ContactCard": {
+      "selector": ".card:has(.card__contact)",
+      "description": ""
+    },
+    "Text": {
+      "selector": ".card__body:has(p)",
+      "description": ""
+    },
+    "Focus intro v1": {
+      "selector": ".strip.focus-intro",
+      "description": ""
+    },
+    "Focus paragraaf v1": {
+      "selector": ".strip.main-content:has(.content-text)",
+      "description": ""
+    },
+    "Focus accordion v1": {
+      "selector": ".strip.js-collapsable",
+      "description": ""
+    },
+    "Bronvermelding v1": {
+      "selector": ".strip.bronvermelding",
+      "description": ""
+    },
+    "Deelknoppen v1": {
+      "selector": ".strip.social-share",
+      "description": ""
+    },
+    "Focus call to action v1": {
+      "selector": ".strip.focus-call-to-action",
+      "description": ""
+    },
+    "Focus paragraaf afbeelding rechts v1": {
+      "selector": ".strip.main-content:has(.paragraph-image__image.paragraph-image__image--right)",
+      "description": ""
+    },
+    "Focus lijst v1": {
+      "selector": ".strip.main-content:has(.list)",
+      "description": ""
+    },
+    "Focus afbeeldingen carrousel v1": {
+      "selector": ".strip.focus-image-carousel",
+      "description": ""
+    },
+    "Focus video v1": {
+      "selector": ".strip.focus-video:has(.video)",
+      "description": ""
+    },
+    "Focus afbeeldingen v1": {
+      "selector": ".strip.main-content:has(.full-width-image)",
+      "description": ""
+    },
+    "Focus paragraaf afbeelding links v1": {
+      "selector": ".strip.main-content:has(.paragraph-image__image):not(:has(.paragraph-image__image--right))",
+      "description": ""
+    },
+    "Focus quote v1": {
+      "selector": ".strip.focus-quote:not(:has(.full-width-image))",
+      "description": ""
+    },
+    "Afbeelding met hotspots v1": {
+      "selector": ".strip:has(.hotspot-image)",
+      "description": ""
+    },
+    "Image": {
+      "selector": ".full-width-image",
+      "description": ""
+    },
+    "Tiles dynamisch v1": {
+      "selector": ".strip.tile-navigation",
+      "description": ""
+    },
+    "Anchor menu v1": {
+      "selector": ".strip.anchor-menu.is-sticky",
+      "description": ""
+    },
+    "Vraag antwoord v1": {
+      "selector": ".strip.vraag-antwoord",
+      "description": ""
+    },
+    "Voorwaarden v1": {
+      "selector": ".strip.voorwaarden",
+      "description": ""
+    },
+    "Video v1": {
+      "selector": ".strip.video",
+      "description": ""
+    },
+    "Bijpassende producten v1": {
+      "selector": ".strip.bijpassende-producten",
+      "description": ""
+    },
+    "BijpassendProduct": {
+      "selector": ".card:has(.card__body.content-text)",
+      "description": ""
+    },
+    "Vergelijken v1": {
+      "selector": ".strip.vergelijk",
+      "description": ""
+    },
+    "Video": {
+      "selector": ".card__image:has(.video__wrapper.video)",
+      "description": ""
+    },
+    "Call to action v1": {
+      "selector": ".strip.call-to-action",
+      "description": ""
+    },
+    "HtmlTool": {
+      "selector": "article[class=\"strip\"]",
+      "description": ""
+    },
+    "Tile medium": {
+      "selector": ".grid-container__item:has(.tile-medium)",
+      "description": ""
+    },
+    "Tiles medium v1": {
+      "selector": ".strip.tiles",
+      "description": ""
+    },
+    "Tabel v1": {
+      "selector": ".strip.tabellen",
+      "description": ""
+    },
+    "Drawer": {
+      "selector": ".drawer",
+      "description": ""
+    },
+    "Rendementstool": {
+      "selector": "article:has(cb-prive-fd-rendementstool-funnel)",
+      "description": ""
+    },
+    "InterestRate": {
+      "selector": ".sidebar__component.actuele-rente:not(:has(.table))",
+      "description": ""
+    },
+    "Wel niet v1": {
+      "selector": ".strip:has(.wel-niet__container)",
+      "description": ""
+    },
+    "Links v3 link": {
+      "selector": ".strip.more-links .list__item",
+      "description": ""
+    },
+    "Links v3": {
+      "selector": ".strip.more-links",
+      "description": ""
+    },
+    "MoreLinks V1": {
+      "selector": ".strip.more-links",
+      "description": ""
+    },
+    "Mediaoverzicht v1": {
+      "selector": ".strip.media-overview",
+      "description": ""
+    },
+    "Dekkingen v1": {
+      "selector": ".strip.main-content.dekkingen",
+      "description": ""
+    },
+    "ContactBlock": {
+      "selector": ".mds-stack.mds-stack--gap-s",
+      "description": ""
+    },
+    "Contact v1": {
+      "selector": ".strip.contact",
+      "description": ""
+    },
+    "InterestRateTable": {
+      "selector": ".sidebar__component.actuele-rente:has(.table)",
+      "description": ""
+    },
+    "HypotheekRenteoverzicht": {
+      "selector": null,
+      "description": ""
+    },
+    "StartHypotheek": {
+      "selector": ".main:has(cb-prive-fd-start-hypotheek-funnel)",
+      "description": ""
+    },
+    "DipBereken": {
+      "selector": null,
+      "description": ""
+    },
+    "Mvc Form": {
+      "selector": ".strip.form",
+      "description": ""
+    },
+    "Formulier met sidebar v1": {
+      "selector": ".strip.form:has(.sidebar)",
+      "description": ""
+    },
+    "Chat": {
+      "selector": null,
+      "description": ""
+    },
+    "VariabelPensioenBereken": {
+      "selector": "article:has(cb-prive-fd-variabel-pensioen-bereken-funnel)",
+      "description": ""
+    },
+    "KennistoetsFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "Beoordelingcarousel v1": {
+      "selector": ".strip.reviews",
+      "description": ""
+    },
+    "Toptaak deeplink": {
+      "selector": null,
+      "description": ""
+    },
+    "Drawer Content v1": {
+      "selector": null,
+      "description": ""
+    },
+    "Drawer v1": {
+      "selector": null,
+      "description": ""
+    },
+    "JaarruimteBereken": {
+      "selector": null,
+      "description": ""
+    },
+    "SmallTile": {
+      "selector": ".grid-container__item:has(.tile-small)",
+      "description": ""
+    },
+    "SmallBlueTile": {
+      "selector": null,
+      "description": ""
+    },
+    "MijnCB intro v1": {
+      "selector": ".page-intro--mijn-cb",
+      "description": ""
+    },
+    "Melding v1": {
+      "selector": ".strip:has(.alert)",
+      "description": ""
+    },
+    "ParticuliereKlantgegevens": {
+      "selector": null,
+      "description": ""
+    },
+    "TwoColumnView": {
+      "selector": ".strip:has(.2-col-view)",
+      "description": ""
+    },
+    "ContactgegevensV2App": {
+      "selector": null,
+      "description": ""
+    },
+    "Subnavigatie v1": {
+      "selector": null,
+      "description": ""
+    },
+    "Tiles dynamisch v1 uncached": {
+      "selector": null,
+      "description": ""
+    },
+    "ErrorStrip": {
+      "selector": ".hero-img-detached__wrapper.hero-img-detached__wrapper--blue",
+      "description": ""
+    },
+    "Tiles": {
+      "selector": ".strip.tiles",
+      "description": ""
+    },
+    "Productoverzicht": {
+      "selector": "cb-prive-algemeen-productoverzicht-app",
+      "description": ""
+    },
+    "Proces v1": {
+      "selector": ".strip.proces",
+      "description": ""
+    },
+    "ProcesStep": {
+      "selector": ".proces .list__item",
+      "description": ""
+    },
+    "Auteurs v1": {
+      "selector": ".strip.auteur",
+      "description": ""
+    },
+    "RprOpenen": {
+      "selector": null,
+      "description": ""
+    },
+    "1 Column": {
+      "selector": null,
+      "description": ""
+    },
+    "2 Columns": {
+      "selector": null,
+      "description": ""
+    },
+    "Contact Tiles Content": {
+      "selector": null,
+      "description": ""
+    },
+    "Contacttabs v1": {
+      "selector": ".strip.contact-strip:has(.contact-strip__tabs)",
+      "description": ""
+    },
+    "Drawer Wel Niet v1": {
+      "selector": null,
+      "description": ""
+    },
+    "AnnuleringsVerzekering": {
+      "selector": null,
+      "description": ""
+    },
+    "Google Product v1": {
+      "selector": null,
+      "description": ""
+    },
+    "AutoStap0": {
+      "selector": ".stap0.strip:has(.vergelijk)",
+      "description": ""
+    },
+    "Etalage card": {
+      "selector": "._etalage-card",
+      "description": ""
+    },
+    "Etalage tegel": {
+      "selector": ".grid-container__item:has(.tile-medium)",
+      "description": ""
+    },
+    "Etalage v1": {
+      "selector": ".strip.etalage",
+      "description": ""
+    },
+    "Beoordelingoverzicht v1": {
+      "selector": ".strip.review-overview",
+      "description": ""
+    },
+    "ClaimsRecent": {
+      "selector": null,
+      "description": ""
+    },
+    "MoreLinks V2": {
+      "selector": ".strip.more-links",
+      "description": ""
+    },
+    "Schadeoverzicht recent": {
+      "selector": ".strip:has(cb-prive-verzekeren-schade-melding-overzicht-app)",
+      "description": ""
+    },
+    "Datalandkaart v1": {
+      "selector": ".strip.local-focus-data-map",
+      "description": ""
+    },
+    "KortlopendeReisVerzekering": {
+      "selector": null,
+      "description": ""
+    },
+    "OrvPremieBerekenen": {
+      "selector": null,
+      "description": ""
+    },
+    "RechtsbijstandVerzekering": {
+      "selector": null,
+      "description": ""
+    },
+    "PageMetadata": {
+      "selector": null,
+      "description": ""
+    },
+    "VideoCard": {
+      "selector": ".card.card--size-large:has(.video)",
+      "description": ""
+    },
+    "PegaPlayer": {
+      "selector": null,
+      "description": ""
+    },
+    "UBR v1": {
+      "selector": ".strip.ubr",
+      "description": ""
+    },
+    "FocusVideo": {
+      "selector": ".strip.focus-video",
+      "description": ""
+    },
+    "LargeTile": {
+      "selector": ".grid-container__item:has(.tile-large)",
+      "description": ""
+    },
+    "AdviseursportaalIntro": {
+      "selector": null,
+      "description": ""
+    },
+    "LargeTiles": {
+      "selector": ".strip.tiles",
+      "description": ""
+    },
+    "AdviseurPolisZoeken": {
+      "selector": null,
+      "description": ""
+    },
+    "PensioenRekentool": {
+      "selector": null,
+      "description": ""
+    },
+    "Navigatiezuil v1 block": {
+      "selector": ".toptaken.collapsable",
+      "description": ""
+    },
+    "Navigatiezuil v1": {
+      "selector": ".strip.navigation-column",
+      "description": ""
+    },
+    "Focus audio v1": {
+      "selector": null,
+      "description": ""
+    },
+    "Focus quote afbeelding rechts v1": {
+      "selector": ".strip.focus-quote:not([class*=\"focus-quote--img-left\"]):has(.full-width-image)",
+      "description": ""
+    },
+    "Focus quote afbeelding links v1": {
+      "selector": ".strip.focus-quote.focus-quote--img-left:has(.full-width-image)",
+      "description": ""
+    },
+    "BedrijfsverzekeringenApp": {
+      "selector": null,
+      "description": ""
+    },
+    "AutoFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "InventarisFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "PakketaanbodFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "VoorraadFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "Klantbeoordelingen v1": {
+      "selector": ".strip.klantbeoordeling",
+      "description": ""
+    },
+    "Beoordeling card": {
+      "selector": ".card.card--quote",
+      "description": ""
+    },
+    "CarAflopend": {
+      "selector": null,
+      "description": ""
+    },
+    "VerzuimV2Funnel": {
+      "selector": null,
+      "description": ""
+    },
+    "DrawerVideo": {
+      "selector": null,
+      "description": ""
+    },
+    "WIAcalculator v1": {
+      "selector": null,
+      "description": ""
+    },
+    "KeuzetoolFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "WiaPremieIndicatieFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "Audios v1": {
+      "selector": ".strip.podcast",
+      "description": ""
+    },
+    "MijnCBDashboardTile": {
+      "selector": ".main:has(cb-dashboard)",
+      "description": ""
+    },
+    "Lead generatie v1": {
+      "selector": ".strip:has(.leadgeneratie)",
+      "description": ""
+    },
+    "StartersFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "DoorlopendeUboCheckVve": {
+      "selector": null,
+      "description": ""
+    },
+    "DoorlopendeUboCheck": {
+      "selector": null,
+      "description": ""
+    },
+    "UboCheckVve": {
+      "selector": null,
+      "description": ""
+    },
+    "VvePremieIndicatieApp": {
+      "selector": null,
+      "description": ""
+    },
+    "GebruikersnaamVergetenAppV2": {
+      "selector": null,
+      "description": ""
+    },
+    "WachtwoordVergetenAppV2": {
+      "selector": null,
+      "description": ""
+    },
+    "Adviseurzoeker": {
+      "selector": null,
+      "description": ""
+    },
+    "EpiBereken": {
+      "selector": null,
+      "description": ""
+    },
+    "EpoBereken": {
+      "selector": null,
+      "description": ""
+    },
+    "ImageTile": {
+      "selector": null,
+      "description": ""
+    },
+    "CollectiviteitApp": {
+      "selector": null,
+      "description": ""
+    },
+    "RekeningenOverzichtApp": {
+      "selector": null,
+      "description": ""
+    },
+    "ContentView": {
+      "selector": null,
+      "description": ""
+    },
+    "Overlijdensrisicoverzekering": {
+      "selector": null,
+      "description": ""
+    },
+    "ClaimsSchadeMelden": {
+      "selector": null,
+      "description": ""
+    },
+    "Schadeoverzicht alle meldingen": {
+      "selector": null,
+      "description": ""
+    },
+    "Mopinion": {
+      "selector": null,
+      "description": ""
+    },
+    "AdviseurKlantZoeken": {
+      "selector": null,
+      "description": ""
+    },
+    "AdviseurOrvPremieBerekenen": {
+      "selector": null,
+      "description": ""
+    },
+    "GebouwenFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "HuurdersbelangFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "AVBKeuzetoolFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "AoMeldenV2": {
+      "selector": null,
+      "description": ""
+    },
+    "VerzuimKostentoolFunnel": {
+      "selector": null,
+      "description": ""
+    },
+    "UboCheck": {
+      "selector": null,
+      "description": ""
+    }
+  }
+}

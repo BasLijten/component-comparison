@@ -1,0 +1,25 @@
+{
+  "name": "component-comparison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "analyze": "tsx --tsconfig tsconfig.json scripts/analyze-similarity.ts",
+    "extract-screenshots": "tsx --tsconfig tsconfig.json scripts/extract-screenshots.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "node-html-parser": "^7.0.2",
+    "sharp": "^0.34.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

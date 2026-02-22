@@ -1,0 +1,42 @@
+{
+  "reviews": {
+    "fbto::Accordeon container::cb::Content accordion v1": "confirmed",
+    "fbto::Accordeon container::cb::Focus accordion v1": "confirmed",
+    "fbto::Responsive Image Block::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Base Extra block::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Image block::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Contact Container::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::IncludedExcluded Block::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::ImageFullHeightBlock::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Artikel overzicht blok::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Contact Blok Link::cb::Afbeelding met hotspots v1": "rejected",
+    "fbto::Duo Block::cb::AccountAanmakenFunnel": "rejected",
+    "fbto::Responsive Image Block::cb::AccountAanmakenFunnel": "rejected",
+    "fbto::Afbeelding titel blok::cb::AccountAanmakenFunnel": "rejected",
+    "fbto::Artikel overzicht blok::cb::AccountAanmakenFunnel": "rejected",
+    "fbto::Afbeelding titel blok::cb::Contact v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::InterestRateTable": "rejected",
+    "fbto::Afbeelding titel blok::cb::Navigatiezuil v1 block": "rejected",
+    "fbto::Afbeelding titel blok::cb::Focus paragraaf afbeelding links v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::ContactBlock": "rejected",
+    "fbto::Afbeelding titel blok::cb::InterestRate": "rejected",
+    "fbto::Afbeelding titel blok::cb::Auteurs v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::Statische contact card": "rejected",
+    "fbto::Afbeelding titel blok::cb::Klantbeoordelingen v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::Video v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::Proces v1": "rejected",
+    "fbto::Afbeelding titel blok::cb::Etalage tegel": "rejected",
+    "fbto::Afbeelding titel blok::cb::Lead generatie v1": "rejected",
+    "fbto::Accordeon block::fbto::Accordeon container": "confirmed"
+  },
+  "manualPairs": [
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "fbto",
+      "componentB": "Accordeon container",
+      "addedAt": "2026-02-22T12:10:41.858Z"
+    }
+  ]
+}

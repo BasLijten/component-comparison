@@ -1,0 +1,4710 @@
+{
+  "generatedAt": "2026-02-22T11:17:07.230Z",
+  "totalPairs": 392,
+  "pairs": [
+    {
+      "brandA": "fbto",
+      "componentA": "Chat Widget",
+      "brandB": "cb",
+      "componentB": "Chat",
+      "score": 1,
+      "signals": {
+        "name": 1,
+        "visual": null,
+        "structural": -1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Container",
+      "brandB": "cb",
+      "componentB": "Content v1",
+      "score": 1,
+      "signals": {
+        "name": 1,
+        "visual": null,
+        "structural": -1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Block",
+      "brandB": "cb",
+      "componentB": "Content v1",
+      "score": 1,
+      "signals": {
+        "name": 1,
+        "visual": null,
+        "structural": -1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Footer",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.75,
+      "signals": {
+        "name": 1,
+        "visual": 0.563,
+        "structural": 0.843
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.672,
+      "signals": {
+        "name": 1,
+        "visual": 0.609,
+        "structural": 0.336
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.666,
+      "signals": {
+        "name": 1,
+        "visual": 0.563,
+        "structural": 0.425
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Text",
+      "score": 0.631,
+      "signals": {
+        "name": 1,
+        "visual": 0.344,
+        "structural": 0.797
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Image",
+      "score": 0.63,
+      "signals": {
+        "name": 1,
+        "visual": 0.422,
+        "structural": 0.595
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Block",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.599,
+      "signals": {
+        "name": 1,
+        "visual": 0.547,
+        "structural": 0.126
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.582,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.594,
+        "structural": 0.677
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "InterestRate",
+      "score": 0.575,
+      "signals": {
+        "name": 0,
+        "visual": 0.75,
+        "structural": 1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Tabel v1",
+      "score": 0.573,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.781,
+        "structural": 0.164
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon container",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.559,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.531,
+        "structural": 0.716
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.548,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.672,
+        "structural": 0.311
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Text",
+      "score": 0.543,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.484,
+        "structural": 0.756
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.54,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.719,
+        "structural": 0.402
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Container",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.535,
+      "signals": {
+        "name": 1,
+        "visual": 0.422,
+        "structural": 0.119
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.532,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.672,
+        "structural": 0.678
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.531,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.672,
+        "structural": 0.474
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.53,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.641,
+        "structural": 0.296
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.529,
+      "signals": {
+        "name": 0,
+        "visual": 0.766,
+        "structural": 0.733
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.524,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.531,
+        "structural": 0.791
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.518,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.531,
+        "structural": 0.888
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.516,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.625,
+        "structural": 0.643
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding links v1",
+      "score": 0.513,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.703,
+        "structural": 0.506
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.509,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.863
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Contacttabs v1",
+      "score": 0.501,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.531,
+        "structural": 0.879
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Container",
+      "brandB": "cb",
+      "componentB": "Drawer Content v1",
+      "score": 0.5,
+      "signals": {
+        "name": 0.5,
+        "visual": null,
+        "structural": -1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Block",
+      "brandB": "cb",
+      "componentB": "Drawer Content v1",
+      "score": 0.5,
+      "signals": {
+        "name": 0.5,
+        "visual": null,
+        "structural": -1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Links v3",
+      "score": 0.5,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.563,
+        "structural": 0.591
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Vraag antwoord v1",
+      "score": 0.496,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.803
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Vraag antwoord v1",
+      "score": 0.495,
+      "signals": {
+        "name": 0,
+        "visual": 0.688,
+        "structural": 0.758
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "InterestRateTable",
+      "score": 0.494,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.789
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.493,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.706
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.491,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.778
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Legacy Footer Menu",
+      "brandB": "cb",
+      "componentB": "Personalised tile row",
+      "score": 0.49,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.886
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.489,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.923
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Container",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.488,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.531,
+        "structural": 0.363
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.487,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.625,
+        "structural": 0.575
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.487,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.672,
+        "structural": 0.455
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "Text",
+      "score": 0.487,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.484,
+        "structural": 0.475
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.487,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.5,
+        "structural": 0.885
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "InterestRate",
+      "score": 0.487,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.911
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.486,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.828
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.486,
+      "signals": {
+        "name": 0,
+        "visual": 0.891,
+        "structural": 0.201
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Text",
+      "score": 0.484,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.974
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.484,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.937
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.484,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.641,
+        "structural": 0.517
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.482,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.806
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Links v3 link",
+      "score": 0.482,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.964
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.482,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.809
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "FocusVideo",
+      "score": 0.482,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.655
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.481,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.845
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.481,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.802
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Formulier met sidebar v1",
+      "score": 0.48,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.604
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Link Column Item",
+      "score": 0.48,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.547,
+        "structural": 0.658
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.477,
+      "signals": {
+        "name": 0,
+        "visual": 0.906,
+        "structural": 0.118
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.477,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.823
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon container",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.476,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.932
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.475,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.563,
+        "structural": 0.671
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.475,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.891
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.474,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.767
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.474,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.805
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.474,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.845
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "ContactCard",
+      "score": 0.473,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.843
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Klantbeoordelingen v1",
+      "score": 0.473,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.84
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.47,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.945
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.47,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.469,
+        "structural": 0.679
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.468,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.541
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.468,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.972
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Beoordeling card",
+      "score": 0.467,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.735
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Back Button",
+      "brandB": "cb",
+      "componentB": "Datalandkaart v1",
+      "score": 0.466,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.466,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.69
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.466,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.531,
+        "structural": 0.502
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.466,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Etalage tegel",
+      "score": 0.466,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 1
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.465,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.803
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon container",
+      "brandB": "cb",
+      "componentB": "Focus accordion v1",
+      "score": 0.463,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.484,
+        "structural": 0.356
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.462,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.554
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Tiles",
+      "score": 0.462,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.823
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.461,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.546
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.461,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.861
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.46,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.547,
+        "structural": 0.181
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Focus lijst v1",
+      "score": 0.46,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.779
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.46,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.661
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Carousel",
+      "score": 0.459,
+      "signals": {
+        "name": 0,
+        "visual": 0.734,
+        "structural": 0.46
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Melding v1",
+      "score": 0.459,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.692
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.457,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.642
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.456,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.523
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.456,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.756
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "MoreLinks V2",
+      "score": 0.456,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.719
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.456,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.594,
+        "structural": 0.42
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Vergelijken v1",
+      "score": 0.456,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.547,
+        "structural": 0.161
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.454,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.51
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "MoreLinks V2",
+      "score": 0.454,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.641,
+        "structural": 0.368
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Melding v1",
+      "score": 0.454,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.823
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.454,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.671
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Focus accordion v1",
+      "score": 0.453,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.484,
+        "structural": 0.303
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.453,
+      "signals": {
+        "name": 0,
+        "visual": 0.844,
+        "structural": 0.157
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "MijnCB intro v1",
+      "score": 0.452,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.583
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Vergelijken v1",
+      "score": 0.451,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.772
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.451,
+      "signals": {
+        "name": 0,
+        "visual": 0.734,
+        "structural": 0.421
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Block",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.451,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.438,
+        "structural": 0.412
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.45,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.842
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "ProcesStep",
+      "score": 0.45,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.727
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "AccountAanmakenFunnel",
+      "score": 0.449,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.797
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.449,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.802
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.449,
+      "signals": {
+        "name": 0.167,
+        "visual": 0.641,
+        "structural": 0.395
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Vergelijken v1",
+      "score": 0.449,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.607
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.449,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.919
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Button block",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.448,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.948
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.448,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.796
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding links v1",
+      "score": 0.448,
+      "signals": {
+        "name": 0.167,
+        "visual": 0.641,
+        "structural": 0.388
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij",
+      "brandB": "cb",
+      "componentB": "InterestRateTable",
+      "score": 0.448,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.594,
+        "structural": 0.456
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "MijnCB intro v1",
+      "score": 0.448,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.675
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.75
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "InterestRate",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.797,
+        "structural": 0.241
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.594
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Personalised tile",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.907
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "ProcesStep",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.557
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.447,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.594
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.446,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.822
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Video",
+      "score": 0.446,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.706
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Tile medium",
+      "score": 0.445,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.739
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Links v3 link",
+      "score": 0.445,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.701
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Datalandkaart v1",
+      "score": 0.445,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.938
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Page Header Block",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.444,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.89
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus video v1",
+      "score": 0.444,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.736
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Audios v1",
+      "score": 0.444,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.972
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Audios v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.693
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.443,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.672,
+        "structural": 0.237
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.65
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.771
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.729
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.771
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "InterestRateTable",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.536
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.616
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.797,
+        "structural": 0.222
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Focus afbeeldingen carrousel v1",
+      "score": 0.443,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.613
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Tabel v1",
+      "score": 0.442,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.727
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Mvc Form",
+      "score": 0.442,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.414
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.442,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.921
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus video v1",
+      "score": 0.442,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.414
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.76
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Sidebar menu",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.798
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header zoekbox blok",
+      "brandB": "cb",
+      "componentB": "HtmlTool",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.878
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding links v1",
+      "score": 0.441,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.484,
+        "structural": 0.696
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.878
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Beoordelingcarousel v1",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.76
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "MijnCB intro v1",
+      "score": 0.441,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.679
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.44,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.715
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.44,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.716
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.44,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.516,
+        "structural": 0.613
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "AccountAanmakenFunnel",
+      "score": 0.44,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.714
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.44,
+      "signals": {
+        "name": 0,
+        "visual": 0.766,
+        "structural": 0.285
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.672
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "MoreLinks V2",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.71
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "HtmlTool",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.593
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Auteurs v1",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.868
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.788
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.947
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "InterestRate",
+      "score": 0.439,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.711
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Button block container",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.438,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.94
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus quote v1",
+      "score": 0.438,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.667
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.438,
+      "signals": {
+        "name": 0.167,
+        "visual": 0.594,
+        "structural": 0.456
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Navigatiezuil v1 block",
+      "score": 0.438,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.864
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Datalandkaart v1",
+      "score": 0.438,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.667
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header",
+      "brandB": "cb",
+      "componentB": "SiteHeader",
+      "score": 0.437,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.5,
+        "structural": 0.637
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Links v3 link",
+      "score": 0.437,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.547,
+        "structural": 0.317
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Etalage v1",
+      "score": 0.437,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.698
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Tabel v1",
+      "score": 0.436,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.694
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.436,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.618
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "VideoCard",
+      "score": 0.436,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.852
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.435,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.654
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.435,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.809
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus lijst v1",
+      "score": 0.435,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.419
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Links v3",
+      "score": 0.435,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.495
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.435,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.672,
+        "structural": 0.193
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.434,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.528
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.434,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.413
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "Call to action v1",
+      "score": 0.433,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.523
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Back Button",
+      "brandB": "cb",
+      "componentB": "ProcesStep",
+      "score": 0.433,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.682
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.433,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.656,
+        "structural": 0.225
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Beoordeling card",
+      "score": 0.433,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.8
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.433,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.759
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Mvc Form",
+      "score": 0.432,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.559
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Bread Crumb",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.432,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.6
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.432,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.597
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Auteurs v1",
+      "score": 0.432,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.83
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Vraag antwoord v1",
+      "score": 0.432,
+      "signals": {
+        "name": 0,
+        "visual": 0.469,
+        "structural": 0.99
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Tile medium",
+      "score": 0.431,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.789
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "ContactCard",
+      "score": 0.431,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.829
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Container",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.431,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.827
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.431,
+      "signals": {
+        "name": 0.167,
+        "visual": 0.563,
+        "structural": 0.5
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.431,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.593
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "Call to action v1",
+      "score": 0.431,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.747
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Content accordion v1",
+      "score": 0.43,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.781
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.43,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.785
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.429,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.582
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.429,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.623
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "ImageCard",
+      "score": 0.429,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.5,
+        "structural": 0.593
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.429,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.484,
+        "structural": 0.56
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Tile medium",
+      "score": 0.429,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.777
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.429,
+      "signals": {
+        "name": 0,
+        "visual": 0.766,
+        "structural": 0.232
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "FocusVideo",
+      "score": 0.429,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.582
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Formulier met sidebar v1",
+      "score": 0.428,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.696
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.428,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.697
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Tile medium",
+      "score": 0.428,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.693
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "FocusVideo",
+      "score": 0.428,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.696
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.427,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.806
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Weetjes v1",
+      "score": 0.427,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.61
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Beoordeling card",
+      "score": 0.427,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.653
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.484,
+        "structural": 0.917
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "MoreLinks V1",
+      "score": 0.426,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.656,
+        "structural": 0.191
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header zoekbox blok",
+      "brandB": "cb",
+      "componentB": "Formulier met sidebar v1",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.764
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.726
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "Deelknoppen v1",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.644
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "Deelknoppen v1",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.84
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Video",
+      "score": 0.426,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.762
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Footer",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.425,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.547,
+        "structural": 0.458
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.757
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Focus lijst v1",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.642
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Bread Crumb",
+      "brandB": "cb",
+      "componentB": "SiteHeader",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.521
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Kolommen v1",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.641
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "AccountAanmakenFunnel",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.875
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Deelknoppen v1",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.875
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "ProcesStep",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.679
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "InterestRateTable",
+      "score": 0.425,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.719
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.424,
+      "signals": {
+        "name": 0,
+        "visual": 0.484,
+        "structural": 0.908
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "FocusVideo",
+      "score": 0.424,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.439
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Schade Herstel Bedrijf Car Brands",
+      "brandB": "cb",
+      "componentB": "Linkkolommen v1",
+      "score": 0.424,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.753
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.423,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.594
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Accordeon block",
+      "brandB": "cb",
+      "componentB": "MoreLinks V1",
+      "score": 0.423,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.434
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "HtmlTool",
+      "score": 0.423,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.75
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.423,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.75
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.423,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.593
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Back Button",
+      "brandB": "cb",
+      "componentB": "Etalage tegel",
+      "score": 0.422,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.667
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "InterestRate",
+      "score": 0.422,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.625
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Auteurs v1",
+      "score": 0.422,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.783
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.422,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.313
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Contact v1",
+      "score": 0.422,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.625
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.421,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.776
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Links v3",
+      "score": 0.421,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.583
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Vergelijken v1",
+      "score": 0.421,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.854
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.421,
+      "signals": {
+        "name": 0,
+        "visual": 0.75,
+        "structural": 0.231
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Bread Crumb",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.809
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Tiles",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.5
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Auteurs v1",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.613
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.696
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Anchor menu v1",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.695
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Focus afbeeldingen v1",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.5
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus afbeeldingen v1",
+      "score": 0.42,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.5
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "HtmlTool",
+      "score": 0.419,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.769
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Focus accordion v1",
+      "score": 0.419,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.573
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Link Column Item",
+      "score": 0.419,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.484,
+        "structural": 0.507
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij",
+      "brandB": "cb",
+      "componentB": "CalamiteitenBanner",
+      "score": 0.419,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.65
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Lead generatie v1",
+      "score": 0.419,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.806
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.419,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.726
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.684
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Beoordeling card",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.75,
+        "structural": 0.214
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Footer",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.569
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.724
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.688,
+        "structural": 0.369
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "ProcesStep",
+      "score": 0.418,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.604
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card Container",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.417,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.797
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Kolommen v1",
+      "score": 0.417,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.523
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "With Sidebar",
+      "brandB": "cb",
+      "componentB": "Footer",
+      "score": 0.417,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.717
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.417,
+      "signals": {
+        "name": 0,
+        "visual": 0.75,
+        "structural": 0.209
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Image",
+      "score": 0.416,
+      "signals": {
+        "name": 0,
+        "visual": 0.688,
+        "structural": 0.359
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.416,
+      "signals": {
+        "name": 0,
+        "visual": 0.766,
+        "structural": 0.166
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Kolommen v1",
+      "score": 0.416,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.531,
+        "structural": 0.252
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Links v3",
+      "score": 0.416,
+      "signals": {
+        "name": 0,
+        "visual": 0.438,
+        "structural": 0.987
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Klantbeoordelingen v1",
+      "score": 0.416,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.595
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "UBR v1",
+      "score": 0.416,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.516
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "MoreLinks V1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.433
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Page Header Block",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.398
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Mediaoverzicht v1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.437
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Etalage v1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.827
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Tiles",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.396
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.554
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.415,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.748
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.626
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.584
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.624
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "MoreLinks V1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.389
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "StartHypotheek",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.741
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus lijst v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.818
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.703
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.431
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.414,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.594,
+        "structural": 0.285
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Beoordelingcarousel v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.622
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Lead generatie v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.542
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Weetjes v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.621
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Voorwaarden v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.697
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Video v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.307
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Kolommen v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.696
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Legacy Footer Menu",
+      "brandB": "cb",
+      "componentB": "TelefoonnummerGewijzigdApp",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.816
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Legacy Footer Menu",
+      "brandB": "cb",
+      "componentB": "Etalage v1",
+      "score": 0.413,
+      "signals": {
+        "name": 0,
+        "visual": 0.469,
+        "structural": 0.893
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Media Block",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.412,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.773
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.412,
+      "signals": {
+        "name": 0,
+        "visual": 0.469,
+        "structural": 0.886
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Toptaken",
+      "score": 0.412,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.538
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Datalandkaart v1",
+      "score": 0.412,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.732
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.411,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.803
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Navigatiezuil v1 block",
+      "score": 0.411,
+      "signals": {
+        "name": 0,
+        "visual": 0.703,
+        "structural": 0.298
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding links v1",
+      "score": 0.411,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.5,
+        "structural": 0.43
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "BijpassendProduct",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.41
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.453,
+        "structural": 0.917
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Afbeelding v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.408
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Focus quote afbeelding rechts v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.719,
+        "structural": 0.254
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "ContactCard",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.802
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.723
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Compare Table",
+      "brandB": "cb",
+      "componentB": "Weetjes v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.645
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "Tiles dynamisch v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.526
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "Weetjes v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.603
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Focus video v1",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.368
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Etalage card",
+      "score": 0.41,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.683
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Beoordelingcarousel v1",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.481
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Navigatiezuil v1",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.688,
+        "structural": 0.326
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header zoekbox blok",
+      "brandB": "cb",
+      "componentB": "Etalage card",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.484,
+        "structural": 0.833
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Focus afbeeldingen carrousel v1",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.453,
+        "structural": 0.911
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "AccountAanmakenFunnel",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.797
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Article Header",
+      "brandB": "cb",
+      "componentB": "Weetjes v1",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.597
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Wel niet v1",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.484
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Result Filter",
+      "brandB": "cb",
+      "componentB": "VariabelPensioenBereken",
+      "score": 0.409,
+      "signals": {
+        "name": 0,
+        "visual": 0.781,
+        "structural": 0.093
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Sidebar menu",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.592
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Navigatiezuil v1 block",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.469,
+        "structural": 0.868
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Header zoekbox blok",
+      "brandB": "cb",
+      "componentB": "UBR v1",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.675
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Vraag antwoord v1",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.517
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.675
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Notice Box Block",
+      "brandB": "cb",
+      "componentB": "Proces v1",
+      "score": 0.408,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.516
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "MijnCB intro v1",
+      "score": 0.407,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.55
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Focus video v1",
+      "score": 0.407,
+      "signals": {
+        "name": 0,
+        "visual": 0.688,
+        "structural": 0.316
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "TelefoonnummerGewijzigdApp",
+      "score": 0.407,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.784
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "InterestRateTable",
+      "score": 0.407,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.396
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "TestBlock",
+      "brandB": "cb",
+      "componentB": "Video",
+      "score": 0.407,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.627
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "UBR v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.584
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card Container",
+      "brandB": "cb",
+      "componentB": "Intro product v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.701
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Full Width",
+      "brandB": "cb",
+      "componentB": "Focus accordion v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.389
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "ContactCard",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.624
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Linkkolommen v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0.333,
+        "visual": 0.5,
+        "structural": 0.281
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Beoordelingcarousel v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.509
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Beoordeling card",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.506
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.544
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Etalage tegel",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.625
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Beoordelingcarousel v1",
+      "score": 0.406,
+      "signals": {
+        "name": 0,
+        "visual": 0.656,
+        "structural": 0.391
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.737
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card",
+      "brandB": "cb",
+      "componentB": "Intro detail v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.773
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Focus quote v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.738
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card Container",
+      "brandB": "cb",
+      "componentB": "TextCard",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.578
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "With Sidebar",
+      "brandB": "cb",
+      "componentB": "Formulier met sidebar v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0.5,
+        "visual": 0.5,
+        "structural": 0.026
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Content Block",
+      "brandB": "cb",
+      "componentB": "Link Column Item",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.781,
+        "structural": 0.071
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.405,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.453,
+        "structural": 0.593
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.54
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Focus afbeeldingen v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.581
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Tiles medium v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.736
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Lead generatie v1",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.621
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.405,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.621
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Focus video v1",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.417
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Card Container",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.422,
+        "structural": 0.967
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "VariabelPensioenBereken",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.341
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.404,
+      "signals": {
+        "name": 0.25,
+        "visual": 0.469,
+        "structural": 0.475
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "ContactBlock",
+      "score": 0.404,
+      "signals": {
+        "name": 0.2,
+        "visual": 0.484,
+        "structural": 0.509
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Statische contact card",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.654
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "Vergelijken v1",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.69
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Etalage card",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.692
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Legacy Footer Menu",
+      "brandB": "cb",
+      "componentB": "Contacttabs v1",
+      "score": 0.404,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.771
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duoblok AI Chat",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding links v1",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.438,
+        "structural": 0.92
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Page Header Block",
+      "brandB": "cb",
+      "componentB": "FocusFooter",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.685
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Duo Block",
+      "brandB": "cb",
+      "componentB": "Text",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.53
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Focus paragraaf afbeelding rechts v1",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.686
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Related Articles",
+      "brandB": "cb",
+      "componentB": "Call to action v1",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.532
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Links v3 link",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.531
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Image block",
+      "brandB": "cb",
+      "componentB": "Links v3",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.49
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.531,
+        "structural": 0.689
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Base Extra block",
+      "brandB": "cb",
+      "componentB": "Melding v1",
+      "score": 0.403,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.451
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Block Container",
+      "brandB": "cb",
+      "componentB": "Focus lijst v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.563,
+        "structural": 0.604
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "IncludedExcluded Block",
+      "brandB": "cb",
+      "componentB": "Wel niet v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.609,
+        "structural": 0.489
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Blok Link",
+      "brandB": "cb",
+      "componentB": "Afbeelding met hotspots v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.758
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Container",
+      "brandB": "cb",
+      "componentB": "Klantbeoordelingen v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.565
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Artikel overzicht blok",
+      "brandB": "cb",
+      "componentB": "Etalage card",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.759
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Afbeelding titel blok",
+      "brandB": "cb",
+      "componentB": "Etalage v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.407
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text",
+      "brandB": "cb",
+      "componentB": "Melding v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.672,
+        "structural": 0.33
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "Etalage v1",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.578,
+        "structural": 0.564
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Schade Herstel Bedrijf Car Brands",
+      "brandB": "cb",
+      "componentB": "Personalised tile",
+      "score": 0.402,
+      "signals": {
+        "name": 0,
+        "visual": 0.625,
+        "structural": 0.449
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Carousel",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.403
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Text Card",
+      "brandB": "cb",
+      "componentB": "Focus accordion v1",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.641,
+        "structural": 0.403
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Contact Block Ai Chat",
+      "brandB": "cb",
+      "componentB": "Melding v1",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.714
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "ImageFullHeightBlock",
+      "brandB": "cb",
+      "componentB": "ContactCard",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.639
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Two column content container",
+      "brandB": "cb",
+      "componentB": "Tile medium",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.547,
+        "structural": 0.64
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Multi Text Container",
+      "brandB": "cb",
+      "componentB": "Content",
+      "score": 0.401,
+      "signals": {
+        "name": 0,
+        "visual": 0.594,
+        "structural": 0.523
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Vergelijk tabel rij tekst",
+      "brandB": "cb",
+      "componentB": "Focus mediaoverzicht lijst v1",
+      "score": 0.4,
+      "signals": {
+        "name": 0,
+        "visual": 0.516,
+        "structural": 0.713
+      }
+    },
+    {
+      "brandA": "fbto",
+      "componentA": "Responsive Image Block",
+      "brandB": "cb",
+      "componentB": "Etalage card",
+      "score": 0.4,
+      "signals": {
+        "name": 0,
+        "visual": 0.5,
+        "structural": 0.75
+      }
+    }
+  ]
+}

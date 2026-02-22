@@ -1,0 +1,392 @@
+{
+  "components": {
+    "Accordeon block": {
+      "selector": "div.accordion__item",
+      "description": "Expandable FAQ/accordion item"
+    },
+    "Accordeon container": {
+      "selector": "div.accordion",
+      "description": "Container for accordion items"
+    },
+    "Artikel overzicht blok": {
+      "selector": "article.article-card",
+      "description": "Article card for blog/news overview"
+    },
+    "Bread Crumb": {
+      "selector": "nav.breadcrumb",
+      "description": "Breadcrumb navigation"
+    },
+    "Button block": {
+      "selector": "a:has(.btn__textwrapper):not([aria-hidden=\"true\"])",
+      "description": "Call-to-action button"
+    },
+    "Button block container": {
+      "selector": ".button-block",
+      "description": "Container for button blocks"
+    },
+    "Chat Widget": {
+      "selector": "fbto-chat-container",
+      "description": "Chat support widget"
+    },
+    "Content Block": {
+      "selector": ".editor-content-block",
+      "description": "Rich text content block"
+    },
+    "Content Container": {
+      "selector": ".strip-section:has(.col-xs-12.col-sm-offset-1.col-sm-10)",
+      "description": "CMS content wrapper container"
+    },
+    "Footer": {
+      "selector": "footer",
+      "description": "Site footer"
+    },
+    "Full Width": {
+      "selector": "main#main",
+      "description": "Full width layout container"
+    },
+    "Header": {
+      "selector": "header.site-header",
+      "description": "Site header with navigation"
+    },
+    "Page Assets Bottom": {
+      "selector": null,
+      "description": "Bottom page assets (scripts/styles)"
+    },
+    "Page Assets Top Refresh": {
+      "selector": null,
+      "description": "Top page assets (scripts/styles)"
+    },
+    "Page Header Block": {
+      "selector": ".strip-section--pageheader",
+      "description": "Page header/hero section"
+    },
+    "Sidebar menu": {
+      "selector": "aside.sidebar",
+      "description": "Sidebar navigation menu"
+    },
+    "With Sidebar": {
+      "selector": ".layout-has-sidebar",
+      "description": "Layout with sidebar"
+    },
+    "Article Header": {
+      "selector": ".strip-section--pagehero",
+      "description": ""
+    },
+    "Article Details": {
+      "selector": ".page-details-block",
+      "description": ""
+    },
+    "Related Articles": {
+      "selector": ".strip-section:has(.related-articles-wrapper)",
+      "description": ""
+    },
+    "Multi Card": {
+      "selector": ".card-container .card.card--primary.card--dark.block-link",
+      "description": ""
+    },
+    "Multi Card Container": {
+      "selector": ".strip-section:has(.card.card--primary.card--dark.block-link)",
+      "description": ""
+    },
+    "Multi Text": {
+      "selector": ".card-container .card.card--tertiary",
+      "description": ""
+    },
+    "Multi Text Container": {
+      "selector": ".strip-section:has(.card.card--tertiary)",
+      "description": ""
+    },
+    "Media Block": {
+      "selector": ".strip-section:has(.media-content-wrapper)",
+      "description": ""
+    },
+    "IncludedExcluded Block": {
+      "selector": ".strip-section:has(.pros-cons-block)",
+      "description": ""
+    },
+    "Coveo Global Searchbox": {
+      "selector": null,
+      "description": ""
+    },
+    "Global Search Section": {
+      "selector": null,
+      "description": ""
+    },
+    "External Components Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Text Card": {
+      "selector": ".content-spacer:has(.cms-content-wrapper)",
+      "description": ""
+    },
+    "Contact Blok Link": {
+      "selector": "li.service-block__item:not(:has(a[data-openfbtobotlink]))",
+      "description": ""
+    },
+    "Header zoekbox blok": {
+      "selector": ".strip-section:has(.hero-search-input)",
+      "description": ""
+    },
+    "Contact Container": {
+      "selector": ".strip-section:has(.service-block__list)",
+      "description": ""
+    },
+    "Coveo Search Resources": {
+      "selector": null,
+      "description": ""
+    },
+    "Notice Box Block": {
+      "selector": ".notice",
+      "description": ""
+    },
+    "Page Assets Bottom Angular": {
+      "selector": null,
+      "description": ""
+    },
+    "Duoblok AI Chat": {
+      "selector": ".duo-block:has(a[data-openfbtobotlink])",
+      "description": ""
+    },
+    "Duo Block": {
+      "selector": ".duo-block:not(:has(a[data-openfbtobotlink]))",
+      "description": ""
+    },
+    "Block Container": {
+      "selector": ".strip-section:has(.duo-block)",
+      "description": ""
+    },
+    "Base Extra block": {
+      "selector": ".strip-section:has(.insurance-extension-block)",
+      "description": ""
+    },
+    "Compare Table": {
+      "selector": ".strip-section:has(.insurance-comparison-block)",
+      "description": ""
+    },
+    "Vergelijk tabel rij tekst": {
+      "selector": ".flex-row[role=\"row\"]:has(div[role=\"cell\"])",
+      "description": ""
+    },
+    "Vergelijk tabel rij": {
+      "selector": ".flex-row[role=\"row\"]:has(div[role=\"cell\"])",
+      "description": ""
+    },
+    "TestBlock": {
+      "selector": ".content-spacer:has(.cms-content-wrapper)",
+      "description": ""
+    },
+    "Contact Block Ai Chat": {
+      "selector": "li.service-block__item:has(a[data-openfbtobotlink])",
+      "description": ""
+    },
+    "Back Button": {
+      "selector": ".atom-back-link",
+      "description": ""
+    },
+    "Image block": {
+      "selector": ".image-block",
+      "description": ""
+    },
+    "ImageFullHeightBlock": {
+      "selector": ".fullheight-img",
+      "description": ""
+    },
+    "Two column content container": {
+      "selector": ".editor-content-block.editor-content-block--columns:has(.col-md-6)",
+      "description": ""
+    },
+    "Afbeelding titel blok": {
+      "selector": ".strip-section.strip-section--pagehero",
+      "description": ""
+    },
+    "CarPageAssetsBottom": {
+      "selector": null,
+      "description": ""
+    },
+    "CarPageAssetsTop": {
+      "selector": null,
+      "description": ""
+    },
+    "Customer Portal Entry": {
+      "selector": ".site-header__menu__item.mijnfbto-icon",
+      "description": ""
+    },
+    "Main Navigation": {
+      "selector": "div:has(.site-navigation-wrapper)",
+      "description": ""
+    },
+    "Legacy Footer Menu": {
+      "selector": "div.container:has(.site-footer.cf)",
+      "description": ""
+    },
+    "Standard Menu": {
+      "selector": null,
+      "description": ""
+    },
+    "Schade Herstel Bedrijf Car Brands": {
+      "selector": "form[action=\"schadeherstelbedrijf-zoeken\"]",
+      "description": ""
+    },
+    "Motorcycle Funnel Form Step 1": {
+      "selector": null,
+      "description": ""
+    },
+    "Motorcycle Funnel Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Step Indicator": {
+      "selector": null,
+      "description": ""
+    },
+    "PageTitle": {
+      "selector": null,
+      "description": ""
+    },
+    "Sales Funnel Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Page Assets Top Sales": {
+      "selector": null,
+      "description": ""
+    },
+    "ActionsList": {
+      "selector": null,
+      "description": ""
+    },
+    "Receipt Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Receipt": {
+      "selector": null,
+      "description": ""
+    },
+    "USP List": {
+      "selector": null,
+      "description": ""
+    },
+    "TermLife Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "TermLife Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductLegal Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductLegal Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductContinuousTravel Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductContinuousTravel Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "AddProduct Short Term Travel Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "AddProduct Short Term Travel Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "Responsive Image Block": {
+      "selector": ".responsive-image-block",
+      "description": ""
+    },
+    "Email tracking Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "Email tracking Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "DocumentUploadForm": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductHome Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "ProductHome Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "Sales Health Page Assets Top": {
+      "selector": null,
+      "description": ""
+    },
+    "Sales Health Jss App": {
+      "selector": null,
+      "description": ""
+    },
+    "Sales Health Page Assets Bottom": {
+      "selector": null,
+      "description": ""
+    },
+    "Result Filter": {
+      "selector": ".results-filter",
+      "description": ""
+    },
+    "Facets Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Search Interface": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Pager": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Did You Mean": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Error Report": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Query Summary": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo For Sitecore Analytics": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Send Analytics To Sitecore": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Item Result Template": {
+      "selector": null,
+      "description": ""
+    },
+    "Coveo Results List": {
+      "selector": null,
+      "description": ""
+    },
+    "Results Section": {
+      "selector": null,
+      "description": ""
+    },
+    "Modular Frame": {
+      "selector": null,
+      "description": ""
+    }
+  }
+}
