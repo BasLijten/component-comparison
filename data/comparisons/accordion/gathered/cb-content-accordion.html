@@ -1,0 +1,28 @@
+<article class="strip main-content content-accordion js-collapsable" id="[section-id]">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <div class="main-content__content">
+          <h2 class="title-large">[Section heading]</h2>
+          <div class="content-text">[Optional intro paragraph]</div>
+
+          <div class="collapsable collapsable--arrow collapsable--blue-arrow collapsable--animated collapsable-unchecked" id="[item-id]">
+            <input type="checkbox" id="[uid]" name="[group-name]" class="collapsable__input visually-hidden">
+            <label class="collapsable__header js-collapsable-label" for="[uid]">
+              <h3 class="title-small">[Question/item title]</h3>
+              <span class="icon icon--s-arrow-down">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-hidden="true">
+                  <path fill-rule="evenodd" d="M30.176 7.136a1.05 1.05 0 0 1 1.548 1.42l-14.933 16.29a1.05 1.05 0 0 1-1.575.008L.277 8.555a1.05 1.05 0 0 1 1.548-1.419L16 22.6 30.176 7.136Z" clip-rule="evenodd"/>
+                </svg>
+              </span>
+            </label>
+            <div class="collapsable__content js-collapsable-content" style="--max-height: 191px">
+              <div class="content-text">[Answer content]</div>
+            </div>
+          </div>
+          <!-- Repeat .collapsable for each item -->
+        </div>
+      </div>
+    </div>
+  </div>
+</article>

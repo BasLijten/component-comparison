@@ -1,0 +1,4 @@
+[     802ms] [ERROR] A bad HTTP response code (404) was received when fetching the script. @ :0
+[     805ms] [ERROR] TypeError: Failed to register a ServiceWorker for scope ('https://www.fbto.nl/') with script ('https://www.fbto.nl/assets/publicportal/serviceworkers/fbto-sw.js'): A bad HTTP response code (404) was received when fetching the script. @ :0
+[  407626ms] [ERROR] A bad HTTP response code (404) was received when fetching the script. @ :0
+[  407627ms] [ERROR] TypeError: Failed to register a ServiceWorker for scope ('https://www.fbto.nl/') with script ('https://www.fbto.nl/assets/publicportal/serviceworkers/fbto-sw.js'): A bad HTTP response code (404) was received when fetching the script. @ :0

@@ -1,0 +1,57 @@
+{
+  "root": {
+    "selector": "div.accordion",
+    "display": "flex",
+    "flexDirection": "column",
+    "backgroundColor": "transparent",
+    "color": "rgb(0, 43, 102)",
+    "fontFamily": "circular, 'Helvetica Neue', Arial, sans-serif",
+    "fontSize": "17.38px",
+    "fontWeight": "400",
+    "padding": "0px",
+    "margin": "0px",
+    "borderRadius": "0px"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "role": "accordion item",
+      "selector": ".accordion__item",
+      "styles": {
+        "display": "block",
+        "backgroundColor": "rgb(239, 238, 235)",
+        "color": "rgb(0, 43, 102)",
+        "padding": "14.77px 29.54px",
+        "margin": "0 0 10.77px 0",
+        "borderRadius": "3px"
+      }
+    },
+    {
+      "tag": "button",
+      "role": "accordion trigger",
+      "selector": ".accordion__item button",
+      "styles": {
+        "display": "block",
+        "backgroundColor": "transparent",
+        "color": "rgb(0, 43, 102)",
+        "fontWeight": "900",
+        "padding": "0px",
+        "border": "none",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "tag": "div",
+      "role": "accordion panel",
+      "selector": ".accordion__answer",
+      "styles": {
+        "display": "block",
+        "backgroundColor": "transparent",
+        "color": "rgb(0, 43, 102)",
+        "maxHeight": "2000px (when expanded)",
+        "overflow": "hidden",
+        "transition": "max-height 0.3s cubic-bezier(0, 1, 0, 1), opacity 0.3s ease-in-out"
+      }
+    }
+  ]
+}

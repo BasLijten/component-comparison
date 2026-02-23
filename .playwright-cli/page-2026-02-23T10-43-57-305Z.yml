@@ -1,0 +1,469 @@
+- generic [active] [ref=e1]:
+  - link "Klik door naar hoofdinhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#maincontent"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - heading "Hoofdmenu navigatie" [level=2] [ref=e5]
+      - navigation "Topnavigatie" [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Privé" [ref=e10] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e11]:
+            - link "Zzp" [ref=e12] [cursor=pointer]:
+              - /url: /zzp
+          - listitem [ref=e13]:
+            - link "Zakelijk" [ref=e14] [cursor=pointer]:
+              - /url: /zakelijk
+          - listitem [ref=e15]:
+            - link "Adviseur" [ref=e16] [cursor=pointer]:
+              - /url: /voor-adviseurs
+          - listitem [ref=e17]:
+            - link "Partner" [ref=e18] [cursor=pointer]:
+              - /url: /partner
+        - button "Instellingen" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: Instellingen
+          - img [ref=e22]
+      - navigation [ref=e25]:
+        - link "Centraal Beheer Logo" [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img "Centraal Beheer Logo" [ref=e28]
+        - navigation "Hoofdmenu" [ref=e30]:
+          - button "Opent het Producten menu" [ref=e31] [cursor=pointer]: Producten
+          - button "Opent het Situaties menu" [ref=e32] [cursor=pointer]: Situaties
+          - link "Klantenservice" [ref=e33] [cursor=pointer]:
+            - /url: /klantenservice
+        - link "Mijn Centraal Beheer" [ref=e34] [cursor=pointer]:
+          - /url: /mijncb
+          - generic [ref=e35]: Mijn Centraal Beheer
+          - img [ref=e37]
+        - search [ref=e41]:
+          - searchbox "Waar kunnen we u mee helpen?" [ref=e42]
+          - button "Zoeken" [disabled] [ref=e43] [cursor=pointer]:
+            - img [ref=e45]
+    - article [ref=e47]:
+      - strong [ref=e52]: Vanaf 15 januari 2026 beschermen wij je account met iDIN of sms-beveiliging. Heb je deze extra beveiliging nog niet aangezet? Ga naar de app of Mijn Centraal Beheer en maak je keuze.
+    - main [ref=e53]:
+      - article [ref=e54]:
+        - generic [ref=e63]:
+          - navigation "Kruimelpad" [ref=e64]:
+            - list [ref=e65]:
+              - listitem [ref=e66]:
+                - link "Home" [ref=e67] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e68]:
+                - link "Account" [ref=e69] [cursor=pointer]:
+                  - /url: /account
+              - listitem [ref=e70]:
+                - generic [ref=e71]: Hulp bij inloggen
+          - heading "Hulp bij inloggen" [level=1] [ref=e72]
+          - heading "Inlogproblemen? Wij helpen je weer op weg" [level=2] [ref=e73]
+          - paragraph [ref=e75]: Lukt het inloggen of een account aanmaken niet? Geen zorgen. Hieronder vind je een uitleg voor de meest voorkomende inlogproblemen.
+      - article [ref=e76]:
+        - generic [ref=e80]:
+          - heading "Lukt inloggen met gebruikersnaam niet?" [level=2] [ref=e81]
+          - paragraph [ref=e83]: Ben je gewend om bij ons in te loggen met gebruikersnaam en wachtwoord? Vanaf 15 januari is sms-beveiliging verplicht. Je ontvangt een controlecode per sms nadat je je gebruikersnaam en wachtwoord hebt ingevuld. Heb je de sms-beveiliging nog niet aangezet? Dan kun je dat direct regelen als je inlogt.
+          - generic [ref=e84]:
+            - checkbox "Ik krijg de melding dat mijn gebruikersnaam of wachtwoord niet kloppen" [checked] [ref=e85]
+            - generic [ref=e86] [cursor=pointer]:
+              - heading "Ik krijg de melding dat mijn gebruikersnaam of wachtwoord niet kloppen" [level=3] [ref=e87]
+              - img [ref=e89]
+            - generic [ref=e92]:
+              - text: Probeerde je in te loggen met een gebruikersnaam en wachtwoord? En lukte dat niet? Misschien is
+              - link "iDIN" [ref=e93] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/login-idin?returnUrl=/mijncb
+              - text: jouw inlogmethode bij ons (via je eigen bank). Als je inloggen met iDIN hebt aangezet, hebben wij je gebruikersnaam en wachtwoord verwijderd om misbruik te voorkomen. Probeer daarom eerst in te loggen met iDIN. Lukt dat ook niet? Vraag dan je gebruikersnaam op via ‘
+              - link "Gebruikersnaam vergeten" [ref=e94] [cursor=pointer]:
+                - /url: /account/gebruikersnaam-vergeten
+              - text: ’.
+          - generic [ref=e95]:
+            - checkbox "Ik ben mijn gebruikersnaam vergeten" [ref=e96]
+            - generic [ref=e97] [cursor=pointer]:
+              - heading "Ik ben mijn gebruikersnaam vergeten" [level=3] [ref=e98]
+              - img [ref=e100]
+            - generic [ref=e102]:
+              - text: "Dat overkomt iedereen wel eens. Ga naar:"
+              - link "'gebruikersnaam vergeten'" [ref=e103] [cursor=pointer]:
+                - /url: /account/gebruikersnaam-vergeten
+              - text: . Dan ontvang je een code om je account opnieuw te activeren. Of maak direct een nieuw account aan met
+              - link "iDIN" [ref=e104] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/login-idin?returnUrl=/mijncb
+              - text: . Je logt dan in via je bank. Dat is veiliger en gemakkelijker. En je hoeft nooit meer je gebruikersnaam en wachtwoord te onthouden.
+          - generic [ref=e105]:
+            - checkbox "Ik ben mijn wachtwoord vergeten" [ref=e106]
+            - generic [ref=e107] [cursor=pointer]:
+              - heading "Ik ben mijn wachtwoord vergeten" [level=3] [ref=e108]
+              - img [ref=e110]
+            - generic [ref=e112]:
+              - text: "Dat overkomt iedereen wel eens. Ga naar: ‘"
+              - link "wachtwoord vergeten" [ref=e113] [cursor=pointer]:
+                - /url: /account/wachtwoord-vergeten
+              - text: ’. Dan ontvang je een code om je account opnieuw te activeren. Of maak direct een nieuw account aan met
+              - link "iDIN" [ref=e114] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/login-idin?returnUrl=/mijncb
+              - text: . Je logt dan in via je bank. Dat is veiliger en gemakkelijker. En je hoeft nooit meer je gebruikersnaam en wachtwoord te onthouden.
+          - generic [ref=e115]:
+            - checkbox "Ik ben mijn gebruikersnaam én wachtwoord vergeten" [ref=e116]
+            - generic [ref=e117] [cursor=pointer]:
+              - heading "Ik ben mijn gebruikersnaam én wachtwoord vergeten" [level=3] [ref=e118]
+              - img [ref=e120]
+            - generic [ref=e122]:
+              - text: "Wat vervelend. We hebben een makkelijke oplossing: maak direct een nieuw account aan met"
+              - link "iDIN" [ref=e123] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/login-idin?returnUrl=/mijncb
+              - text: . Je logt dan in via je bank. Dat is veiliger en gemakkelijker. En je hoeft nooit meer je gebruikersnaam en wachtwoord te onthouden. Wil je je liever blijven inloggen met gebruikersnaam? Vraag dan eerst je
+              - link "gebruikersnaam op" [ref=e124] [cursor=pointer]:
+                - /url: /account/gebruikersnaam-vergeten
+              - text: . En activeer daarna opnieuw je account via
+              - link "'wachtwoord vergeten" [ref=e125] [cursor=pointer]:
+                - /url: /account/wachtwoord-vergeten
+              - text: "'."
+          - generic [ref=e126]:
+            - checkbox "Ik ontvang geen SMS-codes" [ref=e127]
+            - generic [ref=e128] [cursor=pointer]:
+              - heading "Ik ontvang geen SMS-codes" [level=3] [ref=e129]
+              - img [ref=e131]
+            - generic [ref=e133]:
+              - text: Controleer of je telefoon bereik heeft en niet in de vliegtuigmodus staat. En of je telefoon geen sms‑blokkering of spamfilter heeft ingesteld. Misschien heb je een ander mobiel nummer dan je eerder aan ons hebt doorgegeven? Dan kun je
+              - link "je nieuwe telefoonnummer aan ons doorgeven" [ref=e134] [cursor=pointer]:
+                - /url: /account/06-gewijzigd
+              - text: .
+          - generic [ref=e135]:
+            - checkbox "Ik heb geen Nederlands mobiel telefoonummer" [ref=e136]
+            - generic [ref=e137] [cursor=pointer]:
+              - heading "Ik heb geen Nederlands mobiel telefoonummer" [level=3] [ref=e138]
+              - img [ref=e140]
+            - paragraph [ref=e143]: Helaas kun je dan niet inloggen met gebruikersnaam, wachtwoord en sms-beveiliging. Kies voor inloggen met iDIN.
+      - article [ref=e146]:
+        - generic [ref=e150]:
+          - heading "Lukt inloggen met iDIN niet?" [level=2] [ref=e151]
+          - generic [ref=e152]:
+            - text: Inloggen met
+            - link "iDIN" [ref=e153] [cursor=pointer]:
+              - /url: /account/idin
+            - text: doe je door in te loggen via je eigen bank.
+          - generic [ref=e154]:
+            - checkbox "Ik krijg een foutmelding" [checked] [ref=e155]
+            - generic [ref=e156] [cursor=pointer]:
+              - heading "Ik krijg een foutmelding" [level=3] [ref=e157]
+              - img [ref=e159]
+            - generic [ref=e162]:
+              - text: Misschien heb je nog niet eerder ingelogd met iDIN bij Centraal Beheer. Probeer
+              - link "in te loggen met gebruikersnaam en wachtwoord" [ref=e163] [cursor=pointer]:
+                - /url: /mijncb
+              - text: . Lukt dat ook niet? Maak dan
+              - link "een nieuw account aan met iDIN" [ref=e164] [cursor=pointer]:
+                - /url: /account/aanmaken/particulier
+              - text: .
+          - generic [ref=e165]:
+            - checkbox "Mijn gegevens kloppen niet" [ref=e166]
+            - generic [ref=e167] [cursor=pointer]:
+              - heading "Mijn gegevens kloppen niet" [level=3] [ref=e168]
+              - img [ref=e170]
+            - generic [ref=e172]:
+              - text: "Krijg je een melding dat je gegevens van jouw bank niet hetzelfde zijn als bij Centraal Beheer? Kijk dan eerst welke gegevens overeenkomen met je identiteitsbewijs. Kloppen de gegevens bij je bank niet? Neem dan contact op met je bank om ze aan te passen. Kloppen de gegevens bij Centraal Beheer niet? Bel dan ‘Even Apeldoorn’:"
+              - link "(055) 579 8080" [ref=e173] [cursor=pointer]:
+                - /url: tel:+31555798080
+              - text: .
+          - generic [ref=e174]:
+            - checkbox "Ik heb een andere bank" [ref=e175]
+            - generic [ref=e176] [cursor=pointer]:
+              - heading "Ik heb een andere bank" [level=3] [ref=e177]
+              - img [ref=e179]
+            - generic [ref=e181]:
+              - text: Logde je al wel eerder in met iDIN en ben je ondertussen van bank veranderd? Maak dan
+              - link "een nieuw account aan met iDIN" [ref=e182] [cursor=pointer]:
+                - /url: /account/aanmaken/particulier
+              - text: .
+          - generic [ref=e183]:
+            - checkbox "Wat doe ik als mijn bank nog niet samenwerkt met iDIN?" [ref=e184]
+            - generic [ref=e185] [cursor=pointer]:
+              - heading "Wat doe ik als mijn bank nog niet samenwerkt met iDIN?" [level=3] [ref=e186]
+              - img [ref=e188]
+            - paragraph [ref=e191]: Staat je bank niet in de lijst bij de stap 'Kies je bank'? Misschien heb je een bankrekening bij een andere bank die wel is aangesloten bij iDIN. Gebruik deze dan om je te identificeren. Is dit niet het geval? Kies dan voor inloggen met gebruikersnaam, wachtwoord en sms-beveiliging.
+      - article [ref=e194]:
+        - generic [ref=e198]:
+          - heading "Heb je inlogproblemen in de app?" [level=2] [ref=e199]
+          - paragraph [ref=e201]: Door een technische storing kan het inloggen tijdelijk verstoord zijn. Onze excuses voor het ongemak. We werken aan een oplossing. Probeer het later nog eens of log in via Mijn Centraal Beheer.
+          - generic [ref=e202]:
+            - checkbox "Ik krijg een foutmelding als ik opnieuw inlog in de app" [ref=e203]
+            - generic [ref=e204] [cursor=pointer]:
+              - heading "Ik krijg een foutmelding als ik opnieuw inlog in de app" [level=3] [ref=e205]
+              - img [ref=e207]
+            - paragraph [ref=e210]: "Gebruik de inlogmethode die je bij ons hebt gekozen: inloggen met je gebruikersnaam, wachtwoord en sms-beveiliging. Of inloggen met iDIN. Weet je dit niet meer? Probeer dan eerst in te loggen met iDIN. Lukt dit niet? Probeer dan in te loggen met je gebruikersnaam. Krijg je een melding dat er een technisch probleem is? Probeer het dan (later) nog eens. Controleer ook of je browser op je telefoon in 'privémodus' staat. Dan lukt het inloggen niet. Zet de privémodus uit en probeer het nog eens."
+          - generic [ref=e211]:
+            - checkbox "Ik heb problemen met inloggen via iDIN in de app (o.a. iPhones)" [ref=e212]
+            - generic [ref=e213] [cursor=pointer]:
+              - heading "Ik heb problemen met inloggen via iDIN in de app (o.a. iPhones)" [level=3] [ref=e214]
+              - img [ref=e216]
+            - paragraph [ref=e219]: Log je in met iDIN en heb je problemen bij het inloggen bij de bank? Opent bijvoorbeeld je bankapp niet? Dit komt voor als je Chrome gebruikt als browser op een iPhone. iPhones blokkeren soms acties in Chrome en werken beter met de browser Safari. Kies bij Instellingen voor Safari als standaardapp.
+          - generic [ref=e220]:
+            - checkbox "Waarom moet ik opnieuw inloggen in de app?" [ref=e221]
+            - generic [ref=e222] [cursor=pointer]:
+              - heading "Waarom moet ik opnieuw inloggen in de app?" [level=3] [ref=e223]
+              - img [ref=e225]
+            - paragraph [ref=e228]: Je account bij Centraal Beheer is beveiligd met iDIN of gebruikersnaam, wachtwoord en sms-code (Veilig Inloggen). Dat geldt zowel voor Mijn Centraal Beheer als voor de app. Met de app log je 1 keer in met de inlogmethode die jij hebt gekozen. Daarna open je de app gewoon met je pincode, vingerafdruk of gezichtsherkenning. Je hoeft dus niet steeds opnieuw in te loggen met iDIN of sms-code. Is er een grote update of download je de app opnieuw? Dan moet je soms wel weer opnieuw inloggen met iDIN of sms-beveiliging.
+      - article [ref=e231]:
+        - generic [ref=e235]:
+          - heading "Ik heb nog geen account" [level=2] [ref=e236]
+          - generic [ref=e237]: Je maakt een nieuw account aan als je een nieuwe klant bent. Of je had nog geen account of 1 zonder extra beveiliging.
+          - generic [ref=e238]:
+            - checkbox "Hoe vraag ik een account aan?" [checked] [ref=e239]
+            - generic [ref=e240] [cursor=pointer]:
+              - heading "Hoe vraag ik een account aan?" [level=3] [ref=e241]
+              - img [ref=e243]
+            - generic [ref=e246]:
+              - paragraph [ref=e247]:
+                - text: Ben je een particuliere klant? Of heb je een Arbeidsongeschiktheidsverzekering (AOV)? Maak makkelijk en snel
+                - link "een account aan met iDIN" [ref=e248] [cursor=pointer]:
+                  - /url: /account/aanmaken/particulier
+                - text: .
+                - link "iDIN" [ref=e249] [cursor=pointer]:
+                  - /url: /account/idin
+                - text: is de meest veilige manier van inloggen via je eigen vertrouwde bank. Je hoeft ook geen aparte inloggegevens voor je account Centraal Beheer te onthouden.
+              - paragraph [ref=e250]:
+                - text: Wil je liever inloggen met zelfgekozen gebruikersnaam, wachtwoord en sms-code? Maak dan een account aan met je klantnummer. Of door je persoonlijke gegevens in te vullen. Wil je meer over weten over de 2 manieren van inloggen? Lees alles op de pagina
+                - link "Veilig Inloggen" [ref=e251] [cursor=pointer]:
+                  - /url: /account/veilig-inloggen
+                - text: .
+          - generic [ref=e252]:
+            - checkbox "Ben je een zakelijke klant?" [ref=e253]
+            - generic [ref=e254] [cursor=pointer]:
+              - heading "Ben je een zakelijke klant?" [level=3] [ref=e255]
+              - img [ref=e257]
+            - generic [ref=e259]:
+              - text: Vraag dan
+              - link "een account aan" [ref=e260] [cursor=pointer]:
+                - /url: /account/aanmaken/zakelijk
+              - text: . Wij maken binnen 2 werkdagen een account voor je aan.
+          - generic [ref=e261]:
+            - checkbox "Het aanmaken van een account lukt niet" [ref=e262]
+            - generic [ref=e263] [cursor=pointer]:
+              - heading "Het aanmaken van een account lukt niet" [level=3] [ref=e264]
+              - img [ref=e266]
+            - generic [ref=e268]:
+              - paragraph [ref=e269]: Alleen klanten kunnen een account aanmaken. Heb je nét een product gesloten? Probeer het dan later nog eens. Zorg dat de gegevens die je invult bij het aanmaken van een account hetzelfde zijn als de gegevens die je ons gaf toen je een product sloot.
+              - paragraph [ref=e270]: Heb je problemen met het aanmaken van een account via iDIN? Probeer dan met een account aan te maken met je klantnummer. Of door je persoonlijke gegevens in te vullen.
+          - generic [ref=e271]:
+            - checkbox "Ik ben mijn activeringscode kwijt of deze werkt niet meer" [ref=e272]
+            - generic [ref=e273] [cursor=pointer]:
+              - heading "Ik ben mijn activeringscode kwijt of deze werkt niet meer" [level=3] [ref=e274]
+              - img [ref=e276]
+            - generic [ref=e278]:
+              - text: Heb je een account aangevraagd met een gebruikersnaam? En ben je de activeringscode kwijt? Of is deze niet meer geldig? Dan kun je een
+              - link "nieuwe code aanvragen" [ref=e279] [cursor=pointer]:
+                - /url: /account/code-kwijt
+              - text: .
+      - article [ref=e282]:
+        - generic [ref=e286]:
+          - heading "Ik heb een andere vraag" [level=2] [ref=e287]
+          - generic [ref=e288]:
+            - checkbox "Waarom staat mijn pensioen niet in Mijn Centraal Beheer?" [ref=e289]
+            - generic [ref=e290] [cursor=pointer]:
+              - heading "Waarom staat mijn pensioen niet in Mijn Centraal Beheer?" [level=3] [ref=e291]
+              - img [ref=e293]
+            - generic [ref=e295]:
+              - text: "Heb je via je werkgever pensioen bij ons opgebouwd? Dan vind je deze informatie op je persoonlijke pensioenwebsite:"
+              - link "Mijn toekomst" [ref=e296] [cursor=pointer]:
+                - /url: https://centraalbeheer.mijntoekomst.nl/
+              - text: . Je logt daar in met je DigiD.
+          - generic [ref=e297]:
+            - checkbox "Waarom staat mijn arbeidsongeschiktheidspensioen of WIA-verzekering niet in Mijn Centraal Beheer?" [ref=e298]
+            - generic [ref=e299] [cursor=pointer]:
+              - heading "Waarom staat mijn arbeidsongeschiktheidspensioen of WIA-verzekering niet in Mijn Centraal Beheer?" [level=3] [ref=e300]
+              - img [ref=e302]
+            - generic [ref=e304]:
+              - text: Heeft jouw werkgever voor jou een WIA-verzekering geregeld bij Centraal Beheer? Dan ontvang je een uitkering als je arbeidsongeschikt wordt volgens de WIA (Wet werk en inkomen naar arbeidsvermogen). Zo’n verzekering wordt ook vaak arbeidsongeschiktheidspensioen genoemd. Persoonlijke informatie over deze verzekering vind je in
+              - link "jouw digitale kluis" [ref=e305] [cursor=pointer]:
+                - /url: https://digitalekluis.centraalbeheer.nl/app/login/
+              - text: . Je logt daar in met je DigiD.
+          - generic [ref=e306]:
+            - checkbox "Hoe verwijder ik mijn account?" [ref=e307]
+            - generic [ref=e308] [cursor=pointer]:
+              - heading "Hoe verwijder ik mijn account?" [level=3] [ref=e309]
+              - img [ref=e311]
+            - generic [ref=e313]:
+              - text: "Heb je geen producten meer bij Centraal Beheer? Dan verwijderen wij jouw account automatisch na 3 jaar. Wil je je account eerder verwijderen? Besef dat je dan geen documenten of jaaroverzichten meer kunt bekijken of downloaden. Als je geen behoefte meer hebt aan deze gegevens, kun je ons bellen om je account te laten verwijderen:"
+              - link "(055) 579 8080" [ref=e314] [cursor=pointer]:
+                - /url: tel:+31555798080
+              - text: .
+      - article [ref=e317]:
+        - generic [ref=e321]:
+          - heading "Kom je er niet uit?" [level=2] [ref=e322]
+          - paragraph [ref=e324]:
+            - text: Neem contact met ons op
+            - link "(055) 579 8080" [ref=e325] [cursor=pointer]:
+              - /url: tel:+31555798080
+            - text: . Helaas is het op dit moment drukker dan normaal, waardoor de wachttijd iets langer kan zijn. Bedankt voor je geduld!
+    - button "Start chat" [ref=e329]:
+      - img "Icon van de Centraal Beheer chatbot CeeBee" [ref=e330]
+      - generic [ref=e331]: Chat
+    - contentinfo [ref=e332]:
+      - heading "Footermenu navigatie" [level=2] [ref=e333]
+      - generic [ref=e334]:
+        - generic [ref=e338]:
+          - img [ref=e341]
+          - generic [ref=e343]:
+            - link "(055) 579 8080" [ref=e345] [cursor=pointer]:
+              - /url: tel:+3155 5798080
+            - subscript [ref=e346]: Tot 18.00 uur
+        - generic [ref=e348]:
+          - generic [ref=e349]:
+            - heading "Vervoer en onderweg" [level=3] [ref=e350]
+            - list [ref=e351]:
+              - listitem [ref=e352]:
+                - link "Autoverzekering" [ref=e353] [cursor=pointer]:
+                  - /url: /verzekeringen/autoverzekering
+              - listitem [ref=e354]:
+                - link "Motorverzekering" [ref=e355] [cursor=pointer]:
+                  - /url: /verzekeringen/motorverzekering
+              - listitem [ref=e356]:
+                - link "Camperverzekering" [ref=e357] [cursor=pointer]:
+                  - /url: /verzekeringen/camperverzekering
+              - listitem [ref=e358]:
+                - link "Bromfietsverzekering" [ref=e359] [cursor=pointer]:
+                  - /url: /verzekeringen/bromfietsverzekering
+              - listitem [ref=e360]:
+                - link "Scooterverzekering" [ref=e361] [cursor=pointer]:
+                  - /url: /verzekeringen/scooterverzekering
+              - listitem [ref=e362]:
+                - link "Fietsverzekering" [ref=e363] [cursor=pointer]:
+                  - /url: /verzekeringen/fietsverzekering
+              - listitem [ref=e364]:
+                - link "Fatbike verzekeren" [ref=e365] [cursor=pointer]:
+                  - /url: /verzekeringen/fietsverzekering/fatbike
+              - listitem [ref=e366]:
+                - link "Alle verzekeringen" [ref=e367] [cursor=pointer]:
+                  - /url: /verzekeringen
+          - generic [ref=e368]:
+            - heading "Thuis en op reis" [level=3] [ref=e369]
+            - list [ref=e370]:
+              - listitem [ref=e371]:
+                - link "Woonverzekering" [ref=e372] [cursor=pointer]:
+                  - /url: /verzekeringen/woonverzekering
+              - listitem [ref=e373]:
+                - link "Opstalverzekering" [ref=e374] [cursor=pointer]:
+                  - /url: /verzekeringen/opstalverzekering
+              - listitem [ref=e375]:
+                - link "Inboedelverzekering" [ref=e376] [cursor=pointer]:
+                  - /url: /verzekeringen/inboedelverzekering
+              - listitem [ref=e377]:
+                - link "Aansprakelijkheidsverzekering" [ref=e378] [cursor=pointer]:
+                  - /url: /verzekeringen/aansprakelijkheidsverzekering
+              - listitem [ref=e379]:
+                - link "Reisverzekering" [ref=e380] [cursor=pointer]:
+                  - /url: /verzekeringen/reisverzekering
+              - listitem [ref=e381]:
+                - link "Doorlopende Reisverzekering" [ref=e382] [cursor=pointer]:
+                  - /url: /verzekeringen/doorlopende-reisverzekering
+              - listitem [ref=e383]:
+                - link "Kortlopende Reisverzekering" [ref=e384] [cursor=pointer]:
+                  - /url: /verzekeringen/kortlopende-reisverzekering
+              - listitem [ref=e385]:
+                - link "Annuleringsverzekering" [ref=e386] [cursor=pointer]:
+                  - /url: /verzekeringen/annuleringsverzekering
+          - generic [ref=e387]:
+            - heading "Financiën en rechtsbijstand" [level=3] [ref=e388]
+            - list [ref=e389]:
+              - listitem [ref=e390]:
+                - link "Rechtsbijstandverzekering" [ref=e391] [cursor=pointer]:
+                  - /url: /verzekeringen/rechtsbijstandverzekering
+              - listitem [ref=e392]:
+                - link "Overlijdensrisicoverzekering" [ref=e393] [cursor=pointer]:
+                  - /url: /verzekeringen/overlijdensrisicoverzekering
+              - listitem [ref=e394]:
+                - link "Sparen" [ref=e395] [cursor=pointer]:
+                  - /url: /sparen
+              - listitem [ref=e396]:
+                - link "Sparen met variabele rente" [ref=e397] [cursor=pointer]:
+                  - /url: /sparen/renteplus-rekening
+              - listitem [ref=e398]:
+                - link "Pensioen sparen" [ref=e399] [cursor=pointer]:
+                  - /url: /inkomen-en-pensioen/proefpensioen
+              - listitem [ref=e400]:
+                - link "Extra Pensioen Opbouw" [ref=e401] [cursor=pointer]:
+                  - /url: /lijfrente/extra-pensioen-opbouw
+              - listitem [ref=e402]:
+                - link "Lijfrente komt vrij" [ref=e403] [cursor=pointer]:
+                  - /url: /lijfrente/lijfrente-komt-vrij
+              - listitem [ref=e404]:
+                - link "Lijfrente uitkeren" [ref=e405] [cursor=pointer]:
+                  - /url: /lijfrente/lijfrente-uitkeren
+          - generic [ref=e406]:
+            - heading "Centraal Beheer" [level=3] [ref=e407]
+            - list [ref=e408]:
+              - listitem [ref=e409]:
+                - link "Klantenservice" [ref=e410] [cursor=pointer]:
+                  - /url: /klantenservice
+              - listitem [ref=e411]:
+                - link "Contact opnemen" [ref=e412] [cursor=pointer]:
+                  - /url: /klantenservice/contact
+              - listitem [ref=e413]:
+                - link "Schade melden" [ref=e414] [cursor=pointer]:
+                  - /url: /verzekeringen/schade-melden
+              - listitem [ref=e415]:
+                - link "Zelf regelen" [ref=e416] [cursor=pointer]:
+                  - /url: /klantenservice/zelfregelen
+              - listitem [ref=e417]:
+                - link "Centraal Beheer app" [ref=e418] [cursor=pointer]:
+                  - /url: /account/app
+              - listitem [ref=e419]:
+                - link "Over Centraal Beheer" [ref=e420] [cursor=pointer]:
+                  - /url: /over-ons
+              - listitem [ref=e421]:
+                - link "Werken bij ons" [ref=e422] [cursor=pointer]:
+                  - /url: /over-ons/werken-en-stage
+              - listitem [ref=e423]:
+                - link "Laatste nieuws" [ref=e424] [cursor=pointer]:
+                  - /url: https://nieuws.centraalbeheer.nl/
+        - generic [ref=e426]:
+          - list [ref=e428]:
+            - listitem [ref=e429]:
+              - link "Facebook Centraal Beheer" [ref=e430] [cursor=pointer]:
+                - /url: https://www.facebook.com/centraalbeheer
+                - img [ref=e432]
+            - listitem [ref=e434]:
+              - link "X Centraal Beheer" [ref=e435] [cursor=pointer]:
+                - /url: https://twitter.com/centraal_beheer
+                - img [ref=e437]
+            - listitem [ref=e439]:
+              - link "Youtube Centraal Beheer" [ref=e440] [cursor=pointer]:
+                - /url: http://www.youtube.com/centraalbeheerachmea
+                - img [ref=e442]
+            - listitem [ref=e444]:
+              - link "Linkedin Centraal Beheer" [ref=e445] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/centraalbeheer
+                - img [ref=e447]
+          - list [ref=e450]:
+            - listitem [ref=e451]:
+              - link "WijzerInGeldzaken" [ref=e452] [cursor=pointer]:
+                - /url: http://www.wijzeringeldzaken.nl
+            - listitem [ref=e454]:
+              - link "Thuiswinkel" [ref=e455] [cursor=pointer]:
+                - /url: https://www.thuiswinkel.org/leden/centraal-beheer/certificaat
+        - generic [ref=e458]:
+          - list [ref=e460]:
+            - listitem [ref=e461]:
+              - link "Bekijk de disclaimer" [ref=e462] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/disclaimer
+            - listitem [ref=e463]:
+              - link "Veiligheid" [ref=e464] [cursor=pointer]:
+                - /url: /klantenservice/veiligheid
+            - listitem [ref=e465]:
+              - link "Privacy" [ref=e466] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/privacystatement
+            - listitem [ref=e467]:
+              - link "Toegankelijkheid" [ref=e468] [cursor=pointer]:
+                - /url: /over-ons/toegankelijkheid
+            - listitem [ref=e469]:
+              - link "Fraudebeleid" [ref=e470] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/fraudebeleid
+            - listitem [ref=e471]:
+              - link "Cookie-instellingen" [ref=e472] [cursor=pointer]:
+                - /url: javascript:_stCookiePopup.showPopup()
+          - generic [ref=e473]:
+            - text: Centraal Beheer is onderdeel van
+            - img "Achmea" [ref=e474]
+  - button "Feedback" [ref=e475] [cursor=pointer]:
+    - iframe [ref=e476]:
+      - img [ref=f13e2] [cursor=pointer]
