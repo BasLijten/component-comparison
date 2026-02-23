@@ -1,0 +1,6 @@
+### Result
+"<div class=\"accordion__item\" itemscope=\"\" itemtype=\"https://schema.org/Question\" itemprop=\"mainEntity\">\n        <div class=\"accordion__question\">\n                <h3>\n                    <button type=\"button\" aria-expanded=\"false\" itemprop=\"name\">Ben ik verplicht om mijn aanhangwagen te verzekeren?</button>\n                </h3>\n            <div class=\"accordion__item-icon\">\n                <i class=\"icon icon-rf-chevron-down\" aria-hidden=\"true\"></i>\n            </div>\n        </div>\n\n            <div class=\"accordion__answer\" itemscope=\"\" itemtype=\"https://schema.org/Answer\" itemprop=\"acceptedAnswer\">\n                <div class=\"cms-content-wrapper\" itemprop=\"text\">\n                    <p>Nee, je bent niet verplicht om je aanhanger te verzekeren. Je bent WA verzekerd via de wettelijke Aansprakelijkheidsverzekering (WA) van het voertuig dat de aanhanger trekt. Hiermee is de schade verzekerd die je met de aanhanger aan anderen veroorzaakt.</p>\n<p>Schade aan de aanhanger zelf valt niet onder de WA-dekking. Hiervoor kun je de FBTO Aanhangwagenverzekering afsluiten. </p>\n                </div>\n            </div>\n    </div>"
+### Ran Playwright code
+```js
+await page.evaluate('() => (document.querySelector(\'div.accordion__item\')?.outerHTML ?? \'not found\')');
+```

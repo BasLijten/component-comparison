@@ -1,0 +1,392 @@
+- generic [ref=e1]:
+  - link "Klik door naar hoofdinhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#maincontent"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - heading "Hoofdmenu navigatie" [level=2] [ref=e5]
+      - navigation "Topnavigatie" [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Privé" [ref=e10] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e11]:
+            - link "Zzp" [ref=e12] [cursor=pointer]:
+              - /url: /zzp
+          - listitem [ref=e13]:
+            - link "Zakelijk" [ref=e14] [cursor=pointer]:
+              - /url: /zakelijk
+          - listitem [ref=e15]:
+            - link "Adviseur" [ref=e16] [cursor=pointer]:
+              - /url: /voor-adviseurs
+          - listitem [ref=e17]:
+            - link "Partner" [ref=e18] [cursor=pointer]:
+              - /url: /partner
+        - button "Instellingen" [ref=e19] [cursor=pointer]:
+          - generic [ref=e20]: Instellingen
+          - img [ref=e22]
+      - navigation [ref=e25]:
+        - link "Centraal Beheer Logo" [ref=e26] [cursor=pointer]:
+          - /url: /
+          - img "Centraal Beheer Logo" [ref=e28]
+        - navigation "Hoofdmenu" [ref=e30]:
+          - button "Opent het Producten menu" [ref=e31] [cursor=pointer]: Producten
+          - button "Opent het Situaties menu" [ref=e32] [cursor=pointer]: Situaties
+          - link "Klantenservice" [ref=e33] [cursor=pointer]:
+            - /url: /klantenservice
+        - link "Mijn Centraal Beheer" [ref=e34] [cursor=pointer]:
+          - /url: /mijncb
+          - generic [ref=e35]: Mijn Centraal Beheer
+          - img [ref=e37]
+        - search [ref=e41]:
+          - searchbox "Waar kunnen we u mee helpen?" [ref=e42]
+          - button "Zoeken" [disabled] [ref=e43] [cursor=pointer]:
+            - img [ref=e45]
+    - main [ref=e47]:
+      - article [ref=e48]:
+        - generic [ref=e57]:
+          - navigation "Kruimelpad" [ref=e58]:
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - link "Home" [ref=e61] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e62]:
+                - link "Account" [ref=e63] [cursor=pointer]:
+                  - /url: /account
+              - listitem [ref=e64]:
+                - generic [ref=e65]: Download onze app
+          - heading "Onze handige app" [level=1] [ref=e66]
+          - heading "Altijd en overal jouw gegevens bij de hand" [level=2] [ref=e67]
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - img [ref=e71]
+              - text: Makkelijk schade melden en volgen
+            - listitem [ref=e73]:
+              - img [ref=e75]
+              - text: Beleggingsfondsen aan- en verkopen
+            - listitem [ref=e77]:
+              - img [ref=e79]
+              - text: Spaarsaldo checken en geld overboeken
+      - article [ref=e81]:
+        - generic [ref=e85]:
+          - heading "Altijd en overal app-to-date" [level=2] [ref=e86]
+          - paragraph [ref=e88]: Even je persoonlijke verzekeringen bekijken of je bank- of beleggingszaken regelen? Met onze app heb je alles bij elkaar op je telefoon of tablet. Dat is wel zo makkelijk en overzichtelijk. Ook is direct contact mogelijk, via chat of telefoon. Heb je schade? Met de app meld je dit eenvoudig. Of je nu thuis bent of onderweg.
+      - article [ref=e91]:
+        - generic [ref=e95]:
+          - heading "Snel aan de slag in 3 stappen" [level=2] [ref=e96]
+          - paragraph [ref=e98]: Wil je de app gebruiken? Volg de 3 stappen en ontdek zelf het gemak van onze app.
+          - generic [ref=e99]:
+            - checkbox "Download de app" [ref=e100]
+            - generic [ref=e101] [cursor=pointer]:
+              - heading "Download de app" [level=3] [ref=e102]
+              - img [ref=e104]
+            - paragraph [ref=e107]:
+              - text: Je vindt 'm gratis in de
+              - link "Appstore" [ref=e108] [cursor=pointer]:
+                - /url: https://apps.apple.com/nl/app/centraal-beheer/id930053447
+              - text: of
+              - link "Google Play" [ref=e109] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=nl.centraalbeheer.centraalbeheerapp
+              - text: .
+          - generic [ref=e110]:
+            - checkbox "Log in of maak eerst een account aan" [ref=e111]
+            - generic [ref=e112] [cursor=pointer]:
+              - heading "Log in of maak eerst een account aan" [level=3] [ref=e113]
+              - img [ref=e115]
+            - paragraph [ref=e118]: Heb je al een Mijn Centraal Beheer account? Log dan met dezelfde gegevens in. Nog geen account? Kies dan voor ‘Account aanmaken’ en volg de stappen.
+          - generic [ref=e119]:
+            - checkbox "Kies hoe je inlogt" [ref=e120]
+            - generic [ref=e121] [cursor=pointer]:
+              - heading "Kies hoe je inlogt" [level=3] [ref=e122]
+              - img [ref=e124]
+            - paragraph [ref=e127]: "Account aangemaakt? Kies dan hoe je wilt inloggen: met een pincode, vingerafdruk of face-ID."
+      - article [ref=e130]:
+        - generic [ref=e134]:
+          - heading "Veelgestelde vragen" [level=2] [ref=e135]
+          - generic [ref=e136]:
+            - checkbox "Kan ik mijn verzekeringen in de app bekijken?" [ref=e137]
+            - generic [ref=e138] [cursor=pointer]:
+              - heading "Kan ik mijn verzekeringen in de app bekijken?" [level=3] [ref=e139]
+              - img [ref=e141]
+            - paragraph [ref=e144]: Met de app kun je al je particuliere verzekeringen bij Centraal Beheer bekijken. Per verzekering zie je jouw polis en nota. Ook andere handige documenten zoals je groene kaart of voorwaarden zie je in de app.
+          - generic [ref=e145]:
+            - checkbox "Kan ik mijn financiële zaken regelen via de app?" [ref=e146]
+            - generic [ref=e147] [cursor=pointer]:
+              - heading "Kan ik mijn financiële zaken regelen via de app?" [level=3] [ref=e148]
+              - img [ref=e150]
+            - generic [ref=e153]: Heb je via ons een spaar- of beleggingsrekening? Dan geeft de app een overzicht van je spaarsaldo of het rendement van jouw beleggingen. En kun je geld overboeken of beleggingen aan- of verkopen. Heb je via ons een hypotheek? Dan kun je via de app extra aflossen of jouw bouwdepot beheren. Zo heb je al jouw financiële zaken bij Centraal Beheer in 1 overzicht. Dat is lekker overzichtelijk!
+          - generic [ref=e154]:
+            - checkbox "Kan ik een schade melden via de app?" [ref=e155]
+            - generic [ref=e156] [cursor=pointer]:
+              - heading "Kan ik een schade melden via de app?" [level=3] [ref=e157]
+              - img [ref=e159]
+            - paragraph [ref=e162]: Via onze app meld je makkelijk schade, of je nu thuis bent of onderweg. Geef door wanneer, waar en hoe de schade is ontstaan. En voeg meteen foto’s toe. Bij blik- of ruitschade kun je meteen een afspraak maken met een schadeherstelbedrijf bij jou in de buurt. Je krijgt binnen 2 werkdagen een reactie van ons. En je volgt jouw schademelding via de app. Zo ben je altijd op de hoogte.
+          - generic [ref=e163]:
+            - checkbox "Kan ik de app ook op meerdere apparaten gebruiken?" [ref=e164]
+            - generic [ref=e165] [cursor=pointer]:
+              - heading "Kan ik de app ook op meerdere apparaten gebruiken?" [level=3] [ref=e166]
+              - img [ref=e168]
+            - generic [ref=e170]: Ja, je kunt de app op meerdere apparaten tegelijk gebruiken. Bijvoorbeeld op je iPad en op je telefoon. Soms is niet overal dezelfde informatie te zien. Bijvoorbeeld als je jouw spaar- of beleggingsrekening een persoonlijke naam gaf.
+          - generic [ref=e171]:
+            - checkbox "Welke producten kan ik zien in de app?" [ref=e172]
+            - generic [ref=e173] [cursor=pointer]:
+              - heading "Welke producten kan ik zien in de app?" [level=3] [ref=e174]
+              - img [ref=e176]
+            - paragraph [ref=e179]:
+              - text: Je ziet in de app alle particuliere verzekeringen en financiële producten die je hebt bij Centraal Beheer. Zie je er een product niet bij staan? Neem dan
+              - link "contact" [ref=e180] [cursor=pointer]:
+                - /url: /klantenservice/contact
+              - text: met ons op.
+      - article [ref=e183]:
+        - generic [ref=e184]:
+          - heading "Handig om te weten" [level=2] [ref=e188]
+          - generic [ref=e189]:
+            - generic [ref=e190]:
+              - link "Hou je app up-to-date Regelmatig vernieuwen wij onze app. Om nieuwe mogelijkheden toe te voegen. En om de app veilig te houden. Zo blijf je app-to-date." [ref=e191] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/account/app/altijd-up-to-date
+                - generic [ref=e192]:
+                  - heading "Hou je app up-to-date" [level=3] [ref=e193]
+                  - paragraph [ref=e194]:
+                    - text: Regelmatig vernieuwen wij onze app. Om nieuwe mogelijkheden toe te voegen. En om de app veilig te houden. Zo blijf je app-to-date.
+                    - img [ref=e196]
+              - generic "Uw gegevens in de app" [ref=e198]:
+                - generic [ref=e199]:
+                  - heading "Jouw gegevens in de app" [level=3] [ref=e200]
+                  - paragraph [ref=e201]: Je bekijkt alleen de gegevens van jezelf in de app. De app is namelijk gekoppeld aan 1 klantnummer. Hierdoor zie je bijvoorbeeld de gegevens van jouw partner niet.
+            - generic [ref=e202]:
+              - generic "Nieuwe rekening" [ref=e203]:
+                - generic [ref=e204]:
+                  - heading "Nieuwe verzekering of rekening?" [level=3] [ref=e205]
+                  - paragraph [ref=e206]: Het duurt soms een paar dagen voordat je jouw nieuwe verzekering of rekening ziet in de app.
+              - link "Beheer je hypotheek Eenvoudig jouw gegevens bekijken, aanpassingen doen of extra aflossen." [ref=e207] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/hypotheek/app
+                - generic [ref=e208]:
+                  - heading "Beheer je hypotheek" [level=3] [ref=e209]
+                  - paragraph [ref=e210]:
+                    - text: Eenvoudig jouw gegevens bekijken, aanpassingen doen of extra aflossen.
+                    - img [ref=e212]
+            - generic [ref=e214]:
+              - link "Grip op beleggen Met de app bekijk je de waarde van jouw beleggingen. Of regel je eenvoudig jouw aan- of verkoop." [ref=e215] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/beleggen/app
+                - generic [ref=e216]:
+                  - heading "Grip op beleggen" [level=3] [ref=e217]
+                  - paragraph [ref=e218]:
+                    - text: Met de app bekijk je de waarde van jouw beleggingen. Of regel je eenvoudig jouw aan- of verkoop.
+                    - img [ref=e220]
+              - link "Hans had schade Lees hoe Hans zijn schade meldde via onze app." [ref=e222] [cursor=pointer]:
+                - /url: https://www.centraalbeheer.nl/artikelen/schade-komt-nooit-goed-uit
+                - generic [ref=e223]:
+                  - heading "Hans had schade" [level=3] [ref=e224]
+                  - paragraph [ref=e225]:
+                    - text: Lees hoe Hans zijn schade meldde via onze app.
+                    - img [ref=e227]
+      - region "Voorwaarden en belangrijke informatie" [ref=e229]:
+        - group [ref=e234]:
+          - generic "Voorwaarden en belangrijke informatie" [ref=e235] [cursor=pointer]:
+            - img [ref=e238]
+            - generic [ref=e240]: Voorwaarden en belangrijke informatie
+            - img [ref=e243]
+    - button "Start chat" [ref=e246]:
+      - img "Icon van de Centraal Beheer chatbot CeeBee" [ref=e247]
+      - generic [ref=e248]: Chat
+    - contentinfo [ref=e249]:
+      - heading "Footermenu navigatie" [level=2] [ref=e250]
+      - generic [ref=e251]:
+        - generic [ref=e253]:
+          - generic [ref=e255]:
+            - img [ref=e258]
+            - generic [ref=e260]:
+              - link "(055) 579 8080" [ref=e262] [cursor=pointer]:
+                - /url: tel:+3155 5798080
+              - subscript [ref=e263]: Vanaf morgen weer van 8.00 uur tot 18.00 uur
+          - generic [ref=e265]:
+            - img [ref=e268]
+            - generic [ref=e271]:
+              - link "CeeBee, onze chatbot" [ref=e273] [cursor=pointer]:
+                - /url: /klantenservice/contact
+              - subscript [ref=e274]: 24 uur per dag
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - heading "Vervoer en onderweg" [level=3] [ref=e278]
+            - list [ref=e279]:
+              - listitem [ref=e280]:
+                - link "Autoverzekering" [ref=e281] [cursor=pointer]:
+                  - /url: /verzekeringen/autoverzekering
+              - listitem [ref=e282]:
+                - link "Motorverzekering" [ref=e283] [cursor=pointer]:
+                  - /url: /verzekeringen/motorverzekering
+              - listitem [ref=e284]:
+                - link "Camperverzekering" [ref=e285] [cursor=pointer]:
+                  - /url: /verzekeringen/camperverzekering
+              - listitem [ref=e286]:
+                - link "Bromfietsverzekering" [ref=e287] [cursor=pointer]:
+                  - /url: /verzekeringen/bromfietsverzekering
+              - listitem [ref=e288]:
+                - link "Scooterverzekering" [ref=e289] [cursor=pointer]:
+                  - /url: /verzekeringen/scooterverzekering
+              - listitem [ref=e290]:
+                - link "Fietsverzekering" [ref=e291] [cursor=pointer]:
+                  - /url: /verzekeringen/fietsverzekering
+              - listitem [ref=e292]:
+                - link "Fatbike verzekeren" [ref=e293] [cursor=pointer]:
+                  - /url: /verzekeringen/fietsverzekering/fatbike
+              - listitem [ref=e294]:
+                - link "Alle verzekeringen" [ref=e295] [cursor=pointer]:
+                  - /url: /verzekeringen
+          - generic [ref=e296]:
+            - heading "Thuis en op reis" [level=3] [ref=e297]
+            - list [ref=e298]:
+              - listitem [ref=e299]:
+                - link "Woonverzekering" [ref=e300] [cursor=pointer]:
+                  - /url: /verzekeringen/woonverzekering
+              - listitem [ref=e301]:
+                - link "Opstalverzekering" [ref=e302] [cursor=pointer]:
+                  - /url: /verzekeringen/opstalverzekering
+              - listitem [ref=e303]:
+                - link "Inboedelverzekering" [ref=e304] [cursor=pointer]:
+                  - /url: /verzekeringen/inboedelverzekering
+              - listitem [ref=e305]:
+                - link "Aansprakelijkheidsverzekering" [ref=e306] [cursor=pointer]:
+                  - /url: /verzekeringen/aansprakelijkheidsverzekering
+              - listitem [ref=e307]:
+                - link "Reisverzekering" [ref=e308] [cursor=pointer]:
+                  - /url: /verzekeringen/reisverzekering
+              - listitem [ref=e309]:
+                - link "Doorlopende Reisverzekering" [ref=e310] [cursor=pointer]:
+                  - /url: /verzekeringen/doorlopende-reisverzekering
+              - listitem [ref=e311]:
+                - link "Kortlopende Reisverzekering" [ref=e312] [cursor=pointer]:
+                  - /url: /verzekeringen/kortlopende-reisverzekering
+              - listitem [ref=e313]:
+                - link "Annuleringsverzekering" [ref=e314] [cursor=pointer]:
+                  - /url: /verzekeringen/annuleringsverzekering
+          - generic [ref=e315]:
+            - heading "Financiën en rechtsbijstand" [level=3] [ref=e316]
+            - list [ref=e317]:
+              - listitem [ref=e318]:
+                - link "Rechtsbijstandverzekering" [ref=e319] [cursor=pointer]:
+                  - /url: /verzekeringen/rechtsbijstandverzekering
+              - listitem [ref=e320]:
+                - link "Overlijdensrisicoverzekering" [ref=e321] [cursor=pointer]:
+                  - /url: /verzekeringen/overlijdensrisicoverzekering
+              - listitem [ref=e322]:
+                - link "Sparen" [ref=e323] [cursor=pointer]:
+                  - /url: /sparen
+              - listitem [ref=e324]:
+                - link "Sparen met variabele rente" [ref=e325] [cursor=pointer]:
+                  - /url: /sparen/renteplus-rekening
+              - listitem [ref=e326]:
+                - link "Pensioen sparen" [ref=e327] [cursor=pointer]:
+                  - /url: /inkomen-en-pensioen/proefpensioen
+              - listitem [ref=e328]:
+                - link "Extra Pensioen Opbouw" [ref=e329] [cursor=pointer]:
+                  - /url: /lijfrente/extra-pensioen-opbouw
+              - listitem [ref=e330]:
+                - link "Lijfrente komt vrij" [ref=e331] [cursor=pointer]:
+                  - /url: /lijfrente/lijfrente-komt-vrij
+              - listitem [ref=e332]:
+                - link "Lijfrente uitkeren" [ref=e333] [cursor=pointer]:
+                  - /url: /lijfrente/lijfrente-uitkeren
+          - generic [ref=e334]:
+            - heading "Centraal Beheer" [level=3] [ref=e335]
+            - list [ref=e336]:
+              - listitem [ref=e337]:
+                - link "Klantenservice" [ref=e338] [cursor=pointer]:
+                  - /url: /klantenservice
+              - listitem [ref=e339]:
+                - link "Contact opnemen" [ref=e340] [cursor=pointer]:
+                  - /url: /klantenservice/contact
+              - listitem [ref=e341]:
+                - link "Schade melden" [ref=e342] [cursor=pointer]:
+                  - /url: /verzekeringen/schade-melden
+              - listitem [ref=e343]:
+                - link "Zelf regelen" [ref=e344] [cursor=pointer]:
+                  - /url: /klantenservice/zelfregelen
+              - listitem [ref=e345]:
+                - link "Centraal Beheer app" [ref=e346] [cursor=pointer]:
+                  - /url: /account/app
+              - listitem [ref=e347]:
+                - link "Over Centraal Beheer" [ref=e348] [cursor=pointer]:
+                  - /url: /over-ons
+              - listitem [ref=e349]:
+                - link "Werken bij ons" [ref=e350] [cursor=pointer]:
+                  - /url: /over-ons/werken-en-stage
+              - listitem [ref=e351]:
+                - link "Laatste nieuws" [ref=e352] [cursor=pointer]:
+                  - /url: https://nieuws.centraalbeheer.nl/
+        - generic [ref=e354]:
+          - list [ref=e356]:
+            - listitem [ref=e357]:
+              - link "Facebook Centraal Beheer" [ref=e358] [cursor=pointer]:
+                - /url: https://www.facebook.com/centraalbeheer
+                - img [ref=e360]
+            - listitem [ref=e362]:
+              - link "X Centraal Beheer" [ref=e363] [cursor=pointer]:
+                - /url: https://twitter.com/centraal_beheer
+                - img [ref=e365]
+            - listitem [ref=e367]:
+              - link "Youtube Centraal Beheer" [ref=e368] [cursor=pointer]:
+                - /url: http://www.youtube.com/centraalbeheerachmea
+                - img [ref=e370]
+            - listitem [ref=e372]:
+              - link "Linkedin Centraal Beheer" [ref=e373] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/centraalbeheer
+                - img [ref=e375]
+          - list [ref=e378]:
+            - listitem [ref=e379]:
+              - link "WijzerInGeldzaken" [ref=e380] [cursor=pointer]:
+                - /url: http://www.wijzeringeldzaken.nl
+            - listitem [ref=e382]:
+              - link "Thuiswinkel" [ref=e383] [cursor=pointer]:
+                - /url: https://www.thuiswinkel.org/leden/centraal-beheer/certificaat
+        - generic [ref=e386]:
+          - list [ref=e388]:
+            - listitem [ref=e389]:
+              - link "Bekijk de disclaimer" [ref=e390] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/disclaimer
+            - listitem [ref=e391]:
+              - link "Veiligheid" [ref=e392] [cursor=pointer]:
+                - /url: /klantenservice/veiligheid
+            - listitem [ref=e393]:
+              - link "Privacy" [ref=e394] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/privacystatement
+            - listitem [ref=e395]:
+              - link "Toegankelijkheid" [ref=e396] [cursor=pointer]:
+                - /url: /over-ons/toegankelijkheid
+            - listitem [ref=e397]:
+              - link "Fraudebeleid" [ref=e398] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/fraudebeleid
+            - listitem [ref=e399]:
+              - link "Cookie-instellingen" [ref=e400] [cursor=pointer]:
+                - /url: javascript:_stCookiePopup.showPopup()
+          - generic [ref=e401]:
+            - text: Centraal Beheer is onderdeel van
+            - img "Achmea" [ref=e402]
+  - dialog [ref=e403]:
+    - generic [ref=e404]:
+      - heading "Cookie-instellingen" [level=1] [ref=e406]
+      - generic [ref=e407]:
+        - heading "Centraal Beheer gebruikt cookies en vergelijkbare technieken." [level=2] [ref=e408]
+        - paragraph [ref=e409]:
+          - text: We gebruiken cookies om je online gedrag te analyseren en te combineren met gegevens die we van je hebben. Zo weten we welke advertenties werken en kunnen we je persoonlijker helpen via onze website, app of sociale media. Hiermee verwerken wij jouw
+          - link "persoonsgegevens" [active] [ref=e410] [cursor=pointer]:
+            - /url: https://www.centraalbeheer.nl/over-ons/zo-werken-wij/privacystatement
+          - text: . In ons
+          - link "cookie statement" [ref=e411] [cursor=pointer]:
+            - /url: https://www.centraalbeheer.nl/over-ons/zo-werken-wij/over-cookies
+          - text: vind je meer informatie over hoe wij of onze
+          - link "15 partners" [ref=e412] [cursor=pointer]:
+            - /url: https://www.centraalbeheer.nl/over-ons/cookieoverzicht
+          - text: deze cookies gebruiken.
+        - heading "Weiger je cookies?" [level=2] [ref=e413]
+        - paragraph [ref=e414]: Dan plaatsen wij alleen cookies voor functionele, affiliate en beperkt analytische doelen. Deze cookies plaatsen wij altijd en hebben weinig tot geen invloed op je privacy. We mogen deze cookies plaatsen zonder uw toestemming.
+        - heading "Akkoord met cookies?" [level=2] [ref=e415]
+        - paragraph [ref=e416]: Dan geef je ons toestemming om ook cookies te plaatsen voor uitgebreid analytische en personalisatiedoelen. Deze cookies hebben invloed op je privacy.
+        - heading "Zelf je voorkeuren aanpassen?" [level=2] [ref=e417]
+        - paragraph [ref=e418]: Je bepaalt zelf voor welke doelen wij cookies mogen plaatsen. Je keuze kun je op elk moment wijzigen. Of trek je toestemming in via de link “Cookie-instellingen” onderaan de pagina.
+      - button "Pas voorkeuren aan" [ref=e420] [cursor=pointer]
+      - generic [ref=e421]:
+        - button "Akkoord" [ref=e422] [cursor=pointer]
+        - button "Weigeren" [ref=e423] [cursor=pointer]
+  - button "Feedback" [ref=e424] [cursor=pointer]:
+    - iframe [ref=e425]:
+      - img [ref=f4e2] [cursor=pointer]

@@ -1,0 +1,231 @@
+- generic [active] [ref=e1]:
+  - link "Naar inhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - button "Menu" [ref=e5] [cursor=pointer]:
+      - generic [ref=e10]: Menu
+    - link "Jij kiest. FBTO. Ga naar Homepagina" [ref=e11] [cursor=pointer]:
+      - /url: /
+      - img "FBTO.NL" [ref=e12]
+    - generic [ref=e13]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "Alle verzekeringen" [ref=e16] [cursor=pointer]:
+            - /url: /verzekeringen
+        - listitem [ref=e17]:
+          - link "Direct regelen" [ref=e18] [cursor=pointer]:
+            - /url: /verzekeringen/service
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link "Zoeken op FBTO.nl" [ref=e21] [cursor=pointer]:
+            - /url: /verzekeringen/service
+            - generic [ref=e22]: 
+            - generic [ref=e23]: Zoeken
+        - listitem [ref=e24]:
+          - button "Inloggen" [ref=e25] [cursor=pointer]:
+            - text: 
+            - generic [ref=e26]: 
+            - generic [ref=e27]: Inloggen
+          - text: 
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - complementary [ref=e31]:
+        - generic [ref=e32]:
+          - text: 
+          - list [ref=e33]:
+            - listitem [ref=e34]:
+              - link "Aanhangwagenverzekering" [ref=e35] [cursor=pointer]:
+                - /url: /aanhangwagenverzekering
+            - listitem [ref=e36]:
+              - link "Schade melden" [ref=e37] [cursor=pointer]:
+                - /url: /aanhangwagenverzekering/schade-melden
+            - listitem [ref=e38]:
+              - link "Service" [ref=e39] [cursor=pointer]:
+                - /url: /aanhangwagenverzekering/service
+      - generic [ref=e40]:
+        - generic [ref=e44]:
+          - heading "Verzeker je aanhangwagen" [level=1] [ref=e45]
+          - navigation "breadcrumb" [ref=e46]:
+            - list [ref=e47]:
+              - listitem [ref=e48]:
+                - link "Home" [ref=e49] [cursor=pointer]:
+                  - /url: /
+                - text: 
+              - listitem [ref=e50]:
+                - generic [ref=e51]: Aanhangwagenverzekering
+          - generic [ref=e52]:
+            - paragraph [ref=e53]: Met onze aanhangwagenverzekering verzeker je je aanhanger, boot- of paardentrailer tegen schade en diefstal. Onderweg en in de stalling.
+            - paragraph [ref=e54]: Je bent verzekerd in Nederland én in heel Europa, Aziatisch Turkije, Israël, Marokko en Tunesië.
+            - list [ref=e55]:
+              - listitem [ref=e56]:  Kies zelf je eigen risico
+              - listitem [ref=e57]:  Accessoires meeverzekerd
+              - listitem [ref=e58]:  Ook verzekerd in de stalling
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - heading "Bereken je premie" [level=3] [ref=e64]
+            - paragraph [ref=e66]:
+              - text: "Premie berekenen? Verzekering afsluiten? Zo geregeld via chat! Houd dit bij de hand:"
+              - text: "- Kentekenpapieren of COC-verklaring"
+              - text: "- Chassisnummer, merk, bouwjaar en gewicht"
+              - text: "- Jaar van aankoop en aanschafwaarde"
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - heading "Chat met ons" [level=3] [ref=e71]
+              - generic [ref=e72]: 24 uur per dag, 7 dagen per week
+            - generic [ref=e74]: 
+            - link "Chat met ons" [ref=e75] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e76]:
+          - generic [ref=e79]:
+            - heading "Dit is verzekerd" [level=2] [ref=e80]
+            - generic [ref=e81]: Met de aanhangwagenverzekering verzeker je je aanhanger, boot- of paardentrailer tegen schade en diefstal. Lees wat er wel en niet verzekerd is.
+          - generic [ref=e85]:
+            - generic [ref=e87]:
+              - heading "Wel verzekerd" [level=3] [ref=e88]
+              - list [ref=e91]:
+                - listitem [ref=e92]:  Diefstal van je aanhanger
+                - listitem [ref=e93]:  Schade aan je aanhanger
+                - listitem [ref=e94]:  Accessoires die vastzitten
+                - listitem [ref=e95]:  Kosten noodreparatie
+            - generic [ref=e97]:
+              - heading "Niet verzekerd" [level=3] [ref=e98]
+              - list [ref=e101]:
+                - listitem [ref=e102]:  De aanhanger staat niet op slot
+                - listitem [ref=e103]:  Je gebruikt de aanhanger zakelijk
+                - listitem [ref=e104]:  Je hebt schuld aan de schade
+          - paragraph [ref=e109]:
+            - text: Bekijk ook de
+            - link "polisvoorwaarden (pdf)" [ref=e110] [cursor=pointer]:
+              - /url: /-/media/documenten/aanhangwagen/aanhangwagenverzekering-voorwaarden.pdf
+            - text: . Daarin lees je precies wat wel en niet verzekerd is.
+        - generic [ref=e114]:
+          - heading "Je krijgt het aankoopbedrag terug" [level=2] [ref=e115]
+          - generic [ref=e116]:
+            - paragraph [ref=e117]: Is je aanhanger total loss of gestolen? Dan krijg je in het 1e jaar het bedrag terug wat je voor je aanhanger hebt betaald. Dat geldt voor nieuwe en tweedehands aanhangwagens. Je aanhanger mag niet duurder zijn geweest dan € 12.500,-. Was je aanhanger duurder? Dan vergoeden we de dagwaarde + 10% extra.
+            - paragraph [ref=e118]: Heb je de aanhangwagen langer dan een jaar? Dan krijg je de dagwaarde vergoed. Dat is de waarde die de aanhanger had direct voor de schade.
+            - heading "Kies zelf je eigen risico" [level=2] [ref=e119]
+            - paragraph [ref=e120]: "Kies zelf of je een eigen risico wilt op je aanhanger verzekering. Je krijgt dan korting op je premie. Kies uit:"
+            - list [ref=e121]:
+              - listitem [ref=e122]: € 0,- per schade
+              - listitem [ref=e123]: € 150,- per schade
+              - listitem [ref=e124]: € 300,- per schade
+            - paragraph [ref=e125]:
+              - text: Hoe hoger je eigen risico, hoe hoger de korting op je premie. Bij schade betaal je de eerste kosten zelf. Wij de rest. En wil je later je eigen risico aanpassen? Dat kan op elk moment. Neem dan even
+              - link "contact met ons op" [ref=e126] [cursor=pointer]:
+                - /url: /aanhangwagenverzekering/service
+              - text: . Zo geregeld!
+            - heading "Beveilig je aanhanger tegen diefstal" [level=2] [ref=e127]
+            - paragraph [ref=e128]:
+              - text: "Goed om te weten: staat je aanhanger op een niet-afgesloten terrein? Bijvoorbeeld op je oprit of aan de openbare weg? Dan is je aanhangwagen alleen verzekerd als hij op slot staat. Gebruik hiervoor een wielklem, wielslot of disselslot dat is goedgekeurd door"
+              - link "Kiwa SCM" [ref=e129] [cursor=pointer]:
+                - /url: https://www.kiwa.com/nl/nl/markten/automotive-en-luchtvaart/voertuigbeveiliging/sectoren/aanhangwagens-en-caravans/
+              - text: .
+        - generic [ref=e130]:
+          - heading "Veelgestelde vragen" [level=2] [ref=e134]
+          - generic [ref=e137]:
+            - generic [ref=e139] [cursor=pointer]:
+              - heading "Ben ik verplicht om mijn aanhangwagen te verzekeren?" [level=3] [ref=e140]:
+                - button "Ben ik verplicht om mijn aanhangwagen te verzekeren?" [ref=e141]
+              - generic [ref=e143]: 
+            - generic [ref=e145] [cursor=pointer]:
+              - heading "Heb ik een groene kaart nodig voor mijn aanhanger?" [level=3] [ref=e146]:
+                - button "Heb ik een groene kaart nodig voor mijn aanhanger?" [ref=e147]
+              - generic [ref=e149]: 
+            - generic [ref=e151] [cursor=pointer]:
+              - heading "Zijn accessoires ook meeverzekerd?" [level=3] [ref=e152]:
+                - button "Zijn accessoires ook meeverzekerd?" [ref=e153]
+              - generic [ref=e155]: 
+            - generic [ref=e157] [cursor=pointer]:
+              - heading "Welke aanhangwagens kan ik verzekeren?" [level=3] [ref=e158]:
+                - button "Welke aanhangwagens kan ik verzekeren?" [ref=e159]
+              - generic [ref=e161]: 
+            - generic [ref=e163] [cursor=pointer]:
+              - heading "Wanneer is mijn aanhanger verzekerd tegen diefstal?" [level=3] [ref=e164]:
+                - button "Wanneer is mijn aanhanger verzekerd tegen diefstal?" [ref=e165]
+              - generic [ref=e167]: 
+        - generic [ref=e168]:
+          - generic [ref=e171]:
+            - heading "Documenten" [level=2] [ref=e172]
+            - generic [ref=e173]:
+              - text: Voor een samenvatting bekijk je het
+              - link "informatiedocument" [ref=e174] [cursor=pointer]:
+                - /url: /aanhangwagenverzekering/documenten
+              - text: . Elke verzekeraar gebruikt hetzelfde document. Zo kun je heel gemakkelijk de verzekeringen vergelijken.
+          - article [ref=e178]:
+            - generic [ref=e180]:
+              - heading "Polisvoorwaarden" [level=3] [ref=e181]
+              - generic [ref=e182]: Lees hier alles over je verzekering
+            - generic [ref=e184]: 
+            - link "Ga naar Polisvoorwaarden" [ref=e185] [cursor=pointer]:
+              - /url: /aanhangwagenverzekering/documenten
+  - button "Open chat" [ref=e186] [cursor=pointer]
+  - contentinfo [ref=e187]:
+    - generic [ref=e188]:
+      - generic [ref=e189]:
+        - list [ref=e190]:
+          - listitem [ref=e191]:
+            - link "Facebook FBTO" [ref=e192] [cursor=pointer]:
+              - /url: https://www.facebook.com/FBTO
+              - generic [ref=e193]: 
+          - listitem [ref=e194]:
+            - link "Ga naar het FBTO profiel op Instagram" [ref=e195] [cursor=pointer]:
+              - /url: https://www.instagram.com/fbto_nl/?hl=nl
+              - generic [ref=e196]: 
+          - listitem [ref=e197]:
+            - link "Volg FBTO op LinkedIn" [ref=e198] [cursor=pointer]:
+              - /url: https://nl.linkedin.com/company/fbto
+              - generic [ref=e199]: 
+          - listitem [ref=e200]:
+            - link "Volg FBTO op Pinterest" [ref=e201] [cursor=pointer]:
+              - /url: https://nl.pinterest.com/fbto/
+              - generic [ref=e202]: 
+          - listitem [ref=e203]:
+            - link "Volg ons op X" [ref=e204] [cursor=pointer]:
+              - /url: https://twitter.com/fbto
+              - generic [ref=e205]: 
+          - listitem [ref=e206]:
+            - link "Volg ons op YouTube" [ref=e207] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/jijkiestFBTO
+              - generic [ref=e208]: 
+        - navigation "Footer navigatie" [ref=e209]:
+          - list [ref=e210]:
+            - listitem [ref=e211]:
+              - link "Contact" [ref=e212] [cursor=pointer]:
+                - /url: /verzekeringen/contact
+            - listitem [ref=e213]:
+              - link "Over ons" [ref=e214] [cursor=pointer]:
+                - /url: /over-ons
+            - listitem [ref=e215]:
+              - link "Cookie-instellingen" [ref=e216] [cursor=pointer]:
+                - /url: javascript:FBTO.general.showCookieSettingsScreen();
+            - listitem [ref=e217]:
+              - link "Privacy" [ref=e218] [cursor=pointer]:
+                - /url: /over-ons/privacy
+            - listitem [ref=e219]:
+              - link "Toegankelijkheid" [ref=e220] [cursor=pointer]:
+                - /url: /over-ons/toegankelijkheid
+            - listitem [ref=e221]:
+              - link "Veiligheid" [ref=e222] [cursor=pointer]:
+                - /url: /over-ons/veiligheid
+            - listitem [ref=e223]:
+              - link "Fraudebeleid" [ref=e224] [cursor=pointer]:
+                - /url: /over-ons/fraude
+            - listitem [ref=e225]:
+              - link "Disclaimer" [ref=e226] [cursor=pointer]:
+                - /url: /over-ons/disclaimer
+      - generic [ref=e227]:
+        - list [ref=e228]:
+          - listitem [ref=e229]:
+            - link "Ga naar Wijzer in Geldzaken.nl" [ref=e230] [cursor=pointer]:
+              - /url: https://www.wijzeringeldzaken.nl/verzekering/
+              - generic [ref=e231]: 
+          - listitem [ref=e232]:
+            - link "Ga naar het Thuiswinkelcertificaat van FBTO.nl" [ref=e233] [cursor=pointer]:
+              - /url: https://www.thuiswinkel.org/leden/fbto/certificaat
+              - generic [ref=e234]: 
+        - list [ref=e235]:
+          - listitem [ref=e236]:
+            - link "FBTO is onderdeel van Achmea" [ref=e237] [cursor=pointer]:
+              - /url: https://www.achmea.nl
+              - text: FBTO is onderdeel van
+              - generic [ref=e238]: 

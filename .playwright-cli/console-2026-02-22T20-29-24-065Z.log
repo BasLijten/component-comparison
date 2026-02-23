@@ -1,0 +1,10 @@
+Total messages: 8 (Errors: 8, Warnings: 0)
+
+[ERROR] A bad HTTP response code (404) was received when fetching the script. @ :0
+[ERROR] TypeError: Failed to register a ServiceWorker for scope ('https://www.fbto.nl/') with script ('https://www.fbto.nl/assets/publicportal/serviceworkers/fbto-sw.js'): A bad HTTP response code (404) was received when fetching the script. @ :0
+[ERROR] Access to XMLHttpRequest at 'https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json' from origin 'https://www.fbto.nl' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.fbto.nl/aanhangwagenverzekering:0
+[ERROR] Failed to load resource: net::ERR_FAILED @ https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json:0
+[ERROR] Access to XMLHttpRequest at 'https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json' from origin 'https://www.fbto.nl' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.fbto.nl/aanhangwagenverzekering:0
+[ERROR] Failed to load resource: net::ERR_FAILED @ https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json:0
+[ERROR] Access to XMLHttpRequest at 'https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json' from origin 'https://www.fbto.nl' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.fbto.nl/aanhangwagenverzekering:0
+[ERROR] Failed to load resource: net::ERR_FAILED @ https://collectie.fbto.nl/1701/9007199524765160/js/events/v10/jsEvent.json:0
