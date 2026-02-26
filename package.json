@@ -10,6 +10,7 @@
   "scripts": {
     "analyze": "tsx --tsconfig tsconfig.json scripts/analyze-similarity.ts",
     "extract-screenshots": "tsx --tsconfig tsconfig.json scripts/extract-screenshots.ts",
+    "enrich-page-counts": "tsx --tsconfig tsconfig.json scripts/enrich-page-counts.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
