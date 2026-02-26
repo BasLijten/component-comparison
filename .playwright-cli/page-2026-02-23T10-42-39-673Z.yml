@@ -1,0 +1,148 @@
+- generic [active] [ref=e1]:
+  - link "Klik door naar hoofdinhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#maincontent"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - heading "Hoofdmenu navigatie" [level=2] [ref=e5]
+      - navigation "Topnavigatie" [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Privé" [ref=e10] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e11]:
+            - link "Zzp" [ref=e12] [cursor=pointer]:
+              - /url: /zzp
+          - listitem [ref=e13]:
+            - link "Zakelijk" [ref=e14] [cursor=pointer]:
+              - /url: /zakelijk
+          - listitem [ref=e15]:
+            - link "Adviseur" [ref=e16] [cursor=pointer]:
+              - /url: /voor-adviseurs
+          - listitem [ref=e17]:
+            - link "Partner" [ref=e18] [cursor=pointer]:
+              - /url: /partner
+      - navigation [ref=e19]:
+        - link "Centraal Beheer Logo" [ref=e20] [cursor=pointer]:
+          - /url: /
+          - img "Centraal Beheer Logo" [ref=e22]
+        - navigation "Hoofdmenu" [ref=e24]:
+          - button "Opent het Producten menu" [ref=e25] [cursor=pointer]: Producten
+          - button "Opent het Situaties menu" [ref=e26] [cursor=pointer]: Situaties
+          - link "Klantenservice" [ref=e27] [cursor=pointer]:
+            - /url: /klantenservice
+        - link "Mijn Centraal Beheer" [ref=e28] [cursor=pointer]:
+          - /url: /mijncb
+          - generic [ref=e29]: Mijn Centraal Beheer
+          - img [ref=e31]
+        - search [ref=e35]:
+          - searchbox "Waar kunnen we u mee helpen?" [ref=e36]
+          - button "Zoeken" [disabled] [ref=e37] [cursor=pointer]:
+            - img [ref=e39]
+    - main [ref=e41]:
+      - generic [ref=e47]:
+        - heading "Waar moet je op letten bij een proefrit?" [level=1] [ref=e48]
+        - generic [ref=e49]: In een andere auto rijden is altijd spannend. Al helemaal als het om een proefrit gaat. Lees hier waar je op let bij een nieuwe auto en bij een gebruikte auto.
+      - article [ref=e52]:
+        - generic [ref=e56]:
+          - heading "Test wat de auto kan" [level=2] [ref=e57]
+          - generic [ref=e58]: Het is altijd slim om een proefrit te maken. Of je nu een nieuwe of gebruikte auto koopt. Bij een nieuwe auto kun je ervan uit gaan dat alles het doet. Maar voldoet de auto wel aan je wensen? Kan de auto wat hij volgens jou echt moet kunnen? Hoe vind je de accessoires die erin zitten?
+      - article [ref=e59]:
+        - generic [ref=e63]:
+          - heading "Test of alles het doet" [level=2] [ref=e64]
+          - generic [ref=e65]: Bij een gebruikte auto weet je nooit zeker of alles het wel doet. En wat er met de auto is gebeurd. Daarom moet je bij een gebruikte auto op andere zaken letten dan bij een nieuwe auto. Niet alleen tijdens de proefrit, maar zeker ook ervoor. In deze 2 tekeningen zie je meteen waar je op moet letten.
+      - article [ref=e66]:
+        - generic [ref=e70]:
+          - heading "Zo maakt je een proefrit" [level=2] [ref=e71]
+          - generic [ref=e72]:
+            - checkbox "Checklist voor een proefrit met een gebruikte auto" [checked] [ref=e73]
+            - generic [ref=e74] [cursor=pointer]:
+              - heading "Checklist voor een proefrit met een gebruikte auto" [level=3] [ref=e75]
+              - img [ref=e77]
+            - generic [ref=e80]:
+              - paragraph [ref=e81]:
+                - strong [ref=e82]: Proefrit gebruikte auto
+              - list [ref=e83]:
+                - listitem [ref=e84]: Klopt het kentekenbewijs?
+                - listitem [ref=e85]: Zie je krassen of beschadigingen?
+                - listitem [ref=e86]: Is de auto verzekerd?
+                - listitem [ref=e87]: Branden alle lampjes op het dashboard?
+                - listitem [ref=e88]: Hoor je bijgeluiden als je de motor start?
+              - paragraph [ref=e89]:
+                - strong [ref=e90]: Tijdens de proefrit
+              - list [ref=e91]:
+                - listitem [ref=e92]: Stuur je trillingsvrij?
+                - listitem [ref=e93]: Trekt de auto naar links of rechts?
+                - listitem [ref=e94]: Schakelt de versnellingsbak makkelijk?
+                - listitem [ref=e95]: Werken de schokbrekers goed?
+                - listitem [ref=e96]: Remt de auto goed?
+          - generic [ref=e97]:
+            - checkbox "Checklist voor een proefrit met een nieuwe auto" [ref=e98]
+            - generic [ref=e99] [cursor=pointer]:
+              - heading "Checklist voor een proefrit met een nieuwe auto" [level=3] [ref=e100]
+              - img [ref=e102]
+            - generic [ref=e104]:
+              - paragraph [ref=e105]:
+                - strong [ref=e106]: Proefrit nieuwe auto
+              - list [ref=e107]:
+                - listitem [ref=e108]: Kun je gemakkelijk instappen?
+                - listitem [ref=e109]: Zijn de stoelen verstelbaar?
+                - listitem [ref=e110]: Zit je comfortabel?
+                - listitem [ref=e111]: Heb je genoeg beenruimte?
+                - listitem [ref=e112]: Heeft de auto voldoende bagageruimte?
+              - paragraph [ref=e113]:
+                - strong [ref=e114]: Tijdens de proefrit
+              - list [ref=e115]:
+                - listitem [ref=e116]: Kun je de weg goed zien?
+                - listitem [ref=e117]: Kun je het dashboard makkelijk bedienen?
+                - listitem [ref=e118]: Stuurt de auto soepel?
+                - listitem [ref=e119]: Ligt de auto goed op de weg?
+                - listitem [ref=e120]: Trekt de auto lekker op?
+      - article [ref=e121]:
+        - generic [ref=e125]:
+          - heading "Laat de muziek uit" [level=2] [ref=e126]
+          - generic [ref=e127]: Het is soms wel even spannend om een proefrit te maken. Hoe zal deze auto het doen? Je verwacht er veel van, want waarom zou je anders in deze auto gaan rijden? Vol verwachting stap je in. Je kijkt naar het dashboard. Naar de airconditioning. De geluidsinstallatie. Het liefst hoor je meteen de muziek door de auto knallen en zing je lekker mee. Maar tijdens een proefrit is dat niet zo handig. Het is beter als je de muziek uit laat. En goed luistert. Het is dan even wel wat saaier rijden. Maar je kunt beter horen hoe de auto loopt.
+      - article [ref=e128]:
+        - generic [ref=e132]:
+          - heading "Pas de route aan" [level=2] [ref=e133]
+          - generic [ref=e134]:
+            - text: De auto kun je het beste testen als je de route erop aanpast. Rijd een paar keer op een rotonde. Zoek een weg op met klinkers. En een wijk met veel verkeersdrempels. Laat de motor aan als je de auto stilzet. Valt je iets op? Bespreek dit dan na de proefrit met de verkoper. Misschien kan hij er nog iets aan doen. Of kan er iets van de prijs af. Beslis nooit meteen, ook niet als je heel enthousiast bent. Denk er nog even rustig over na. Weet je het na een paar dagen zeker? Bel dan de verkoper op. En regel meteen de
+            - link "autoverzekering" [ref=e135] [cursor=pointer]:
+              - /url: /verzekeringen/autoverzekering
+            - text: .
+    - generic [ref=e139]:
+      - iframe
+    - button "Start chat" [ref=e141]:
+      - img "Icon van de Centraal Beheer chatbot CeeBee" [ref=e142]
+      - generic [ref=e143]: Chat
+    - contentinfo [ref=e144]:
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - list [ref=e149]:
+            - listitem [ref=e150]:
+              - link "Contact" [ref=e151] [cursor=pointer]:
+                - /url: /klantenservice/contact
+            - listitem [ref=e152]:
+              - link "Over ons" [ref=e153] [cursor=pointer]:
+                - /url: /over-ons
+          - list [ref=e154]:
+            - listitem [ref=e155]:
+              - link "Disclaimer" [ref=e156] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/disclaimer
+            - listitem [ref=e157]:
+              - link "Veiligheid" [ref=e158] [cursor=pointer]:
+                - /url: /klantenservice/veiligheid
+            - listitem [ref=e159]:
+              - link "Privacy" [ref=e160] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/privacystatement
+            - listitem [ref=e161]:
+              - link "Fraudebeleid" [ref=e162] [cursor=pointer]:
+                - /url: /over-ons/zo-werken-wij/fraudebeleid
+            - listitem [ref=e163]:
+              - link "Cookie-instellingen" [ref=e164] [cursor=pointer]:
+                - /url: javascript:_stCookiePopup.showPopup()
+        - generic [ref=e165]:
+          - text: Centraal Beheer is onderdeel van
+          - img "Achmea" [ref=e166]
+  - button "Feedback" [ref=e167] [cursor=pointer]:
+    - iframe [ref=e168]:
+      - img [ref=f8e2] [cursor=pointer]

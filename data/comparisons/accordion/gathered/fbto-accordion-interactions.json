@@ -1,0 +1,35 @@
+{
+  "states": ["collapsed", "expanded"],
+  "defaultState": "collapsed",
+  "transitions": [
+    { "from": "collapsed", "to": "expanded", "trigger": "click button / Enter / Space" },
+    { "from": "expanded", "to": "collapsed", "trigger": "click button / Enter / Space" }
+  ],
+  "multipleOpen": true,
+  "mechanism": "JavaScript + aria-expanded",
+  "keyboard": {
+    "tab": "moves focus sequentially to next accordion button",
+    "enter": "toggles current item (activates button)",
+    "space": "toggles current item (activates button)",
+    "arrowDown": "not implemented",
+    "arrowUp": "not implemented",
+    "home": "not implemented",
+    "end": "not implemented"
+  },
+  "animation": {
+    "type": "max-height slide + opacity",
+    "duration": "300ms",
+    "easing": "cubic-bezier(0, 1, 0, 1)",
+    "property": "max-height 0.3s cubic-bezier(0, 1, 0, 1), opacity 0.3s ease-in-out",
+    "prefersReducedMotion": false
+  },
+  "ariaAttributes": {
+    "button": ["aria-expanded"],
+    "missingFromSpec": ["aria-controls", "role=region on panel", "aria-labelledby on panel"]
+  },
+  "schemaOrg": {
+    "container": "https://schema.org/FAQPage (implicit via mainEntity)",
+    "item": "https://schema.org/Question",
+    "answer": "https://schema.org/Answer"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "root": {
+    "selector": ".collapsable",
+    "display": "block",
+    "backgroundColor": "transparent",
+    "color": "rgb(51, 51, 51)",
+    "fontFamily": "OpenSans, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "padding": "0 0 0 64px",
+    "margin": "0px",
+    "borderRadius": "0px"
+  },
+  "children": [
+    {
+      "tag": "input",
+      "role": "checkbox trigger (visually hidden)",
+      "selector": ".collapsable__input",
+      "styles": {
+        "position": "absolute",
+        "width": "1px",
+        "height": "1px",
+        "overflow": "hidden",
+        "clip": "rect(0,0,0,0)"
+      }
+    },
+    {
+      "tag": "label",
+      "role": "accordion header (clickable)",
+      "selector": ".collapsable__header",
+      "styles": {
+        "display": "block",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(51, 51, 51)",
+        "padding": "16px 32px 16px 0",
+        "cursor": "pointer",
+        "borderBottom": "none"
+      }
+    },
+    {
+      "tag": "span",
+      "role": "chevron icon",
+      "selector": ".icon--s-arrow-down",
+      "styles": {
+        "transition": "transform 0.3s",
+        "transform": "matrix(-1, 0, 0, -1, 0, 0) when expanded"
+      }
+    },
+    {
+      "tag": "div",
+      "role": "accordion panel",
+      "selector": ".collapsable__content",
+      "styles": {
+        "display": "block",
+        "overflow": "hidden",
+        "maxHeight": "366px (CSS var --max-height)",
+        "transition": "transform 0.3s, max-height 0.3s"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+- generic [active] [ref=e1]:
+  - link "Klik door naar hoofdinhoud" [ref=e2] [cursor=pointer]:
+    - /url: "#maincontent"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: Prive
+        - generic [ref=e9]: ZZP
+        - generic [ref=e10]: Zakelijk
+        - generic [ref=e11]: Adviseurs
+        - generic [ref=e12]: Partner
+        - button "Instellingen" [disabled] [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: Instellingen
+          - img [ref=e16]
+      - link "Sluiten" [ref=e19] [cursor=pointer]:
+        - /url: /account/app
+      - banner [ref=e20]:
+        - link "Sluiten" [ref=e23] [cursor=pointer]:
+          - /url: /account/app
+          - text: Sluiten
+          - img [ref=e25]
+    - main [ref=e28]:
+      - generic [ref=e32]:
+        - heading "Waar moet je op letten bij een proefrit?" [level=1] [ref=e33]
+        - paragraph [ref=e34]: In een andere auto rijden is altijd spannend. Al helemaal als het om een proefrit gaat. Lees hier waar je op let bij een nieuwe auto en bij een gebruikte auto.
+      - article [ref=e37]:
+        - generic [ref=e41]:
+          - heading "Test wat de auto kan" [level=2] [ref=e42]
+          - generic [ref=e43]: Het is altijd slim om een proefrit te maken. Of je nu een nieuwe of gebruikte auto koopt. Bij een nieuwe auto kun je ervan uit gaan dat alles het doet. Maar voldoet de auto wel aan je wensen? Kan de auto wat hij volgens jou echt moet kunnen? Hoe vind je de accessoires die erin zitten?
+      - article [ref=e44]:
+        - generic [ref=e48]:
+          - heading "Test of alles het doet" [level=2] [ref=e49]
+          - generic [ref=e50]: Bij een gebruikte auto weet je nooit zeker of alles het wel doet. En wat er met de auto is gebeurd. Daarom moet je bij een gebruikte auto op andere zaken letten dan bij een nieuwe auto. Niet alleen tijdens de proefrit, maar zeker ook ervoor. In deze 2 tekeningen zie je meteen waar je op moet letten.
+      - article [ref=e51]:
+        - generic [ref=e55]:
+          - heading "Zo maakt je een proefrit" [level=2] [ref=e56]
+          - generic [ref=e57]:
+            - checkbox "Checklist voor een proefrit met een gebruikte auto" [checked] [ref=e58]
+            - generic [ref=e59] [cursor=pointer]:
+              - heading "Checklist voor een proefrit met een gebruikte auto" [level=3] [ref=e60]
+              - img [ref=e62]
+            - generic [ref=e65]:
+              - paragraph [ref=e66]:
+                - strong [ref=e67]: Proefrit gebruikte auto
+              - list [ref=e68]:
+                - listitem [ref=e69]: Klopt het kentekenbewijs?
+                - listitem [ref=e70]: Zie je krassen of beschadigingen?
+                - listitem [ref=e71]: Is de auto verzekerd?
+                - listitem [ref=e72]: Branden alle lampjes op het dashboard?
+                - listitem [ref=e73]: Hoor je bijgeluiden als je de motor start?
+              - paragraph [ref=e74]:
+                - strong [ref=e75]: Tijdens de proefrit
+              - list [ref=e76]:
+                - listitem [ref=e77]: Stuur je trillingsvrij?
+                - listitem [ref=e78]: Trekt de auto naar links of rechts?
+                - listitem [ref=e79]: Schakelt de versnellingsbak makkelijk?
+                - listitem [ref=e80]: Werken de schokbrekers goed?
+                - listitem [ref=e81]: Remt de auto goed?
+          - generic [ref=e82]:
+            - checkbox "Checklist voor een proefrit met een nieuwe auto" [ref=e83]
+            - generic [ref=e84] [cursor=pointer]:
+              - heading "Checklist voor een proefrit met een nieuwe auto" [level=3] [ref=e85]
+              - img [ref=e87]
+            - generic [ref=e89]:
+              - paragraph [ref=e90]:
+                - strong [ref=e91]: Proefrit nieuwe auto
+              - list [ref=e92]:
+                - listitem [ref=e93]: Kun je gemakkelijk instappen?
+                - listitem [ref=e94]: Zijn de stoelen verstelbaar?
+                - listitem [ref=e95]: Zit je comfortabel?
+                - listitem [ref=e96]: Heb je genoeg beenruimte?
+                - listitem [ref=e97]: Heeft de auto voldoende bagageruimte?
+              - paragraph [ref=e98]:
+                - strong [ref=e99]: Tijdens de proefrit
+              - list [ref=e100]:
+                - listitem [ref=e101]: Kun je de weg goed zien?
+                - listitem [ref=e102]: Kun je het dashboard makkelijk bedienen?
+                - listitem [ref=e103]: Stuurt de auto soepel?
+                - listitem [ref=e104]: Ligt de auto goed op de weg?
+                - listitem [ref=e105]: Trekt de auto lekker op?
+      - article [ref=e106]:
+        - generic [ref=e110]:
+          - heading "Laat de muziek uit" [level=2] [ref=e111]
+          - generic [ref=e112]: Het is soms wel even spannend om een proefrit te maken. Hoe zal deze auto het doen? Je verwacht er veel van, want waarom zou je anders in deze auto gaan rijden? Vol verwachting stap je in. Je kijkt naar het dashboard. Naar de airconditioning. De geluidsinstallatie. Het liefst hoor je meteen de muziek door de auto knallen en zing je lekker mee. Maar tijdens een proefrit is dat niet zo handig. Het is beter als je de muziek uit laat. En goed luistert. Het is dan even wel wat saaier rijden. Maar je kunt beter horen hoe de auto loopt.
+      - article [ref=e113]:
+        - generic [ref=e117]:
+          - heading "Pas de route aan" [level=2] [ref=e118]
+          - generic [ref=e119]:
+            - text: De auto kun je het beste testen als je de route erop aanpast. Rijd een paar keer op een rotonde. Zoek een weg op met klinkers. En een wijk met veel verkeersdrempels. Laat de motor aan als je de auto stilzet. Valt je iets op? Bespreek dit dan na de proefrit met de verkoper. Misschien kan hij er nog iets aan doen. Of kan er iets van de prijs af. Beslis nooit meteen, ook niet als je heel enthousiast bent. Denk er nog even rustig over na. Weet je het na een paar dagen zeker? Bel dan de verkoper op. En regel meteen de
+            - link "autoverzekering" [ref=e120] [cursor=pointer]:
+              - /url: /verzekeringen/autoverzekering
+            - text: .
+    - button "Start chat" [ref=e122]:
+      - img "Icon van de Centraal Beheer chatbot CeeBee" [ref=e123]
+      - generic [ref=e124]: Chat
+  - button "Feedback" [ref=e125] [cursor=pointer]:
+    - iframe [ref=e126]:
+      - img [ref=f15e2] [cursor=pointer]

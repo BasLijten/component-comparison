@@ -1,0 +1,30 @@
+{
+  "states": ["collapsed", "expanded"],
+  "defaultState": "collapsed",
+  "transitions": [
+    { "from": "collapsed", "to": "expanded", "trigger": "click label / click checkbox" },
+    { "from": "expanded", "to": "collapsed", "trigger": "click label again / click another item in same group" }
+  ],
+  "multipleOpen": "per-group: radio-like (same `name` attribute = only one open at a time per section); different groups can be open simultaneously",
+  "mechanism": "CSS-only: input[type=checkbox] checked state drives max-height + icon rotation via CSS",
+  "keyboard": {
+    "tab": "moves focus to next checkbox input",
+    "space": "toggles checkbox (opens/closes item)",
+    "enter": "does NOT toggle (label click doesn't respond to Enter on hidden checkbox in all browsers)"
+  },
+  "animation": {
+    "type": "max-height slide + icon rotation",
+    "duration": "300ms",
+    "easing": "ease (default)",
+    "property": "transform 0.3s, max-height 0.3s",
+    "iconRotation": "180deg via matrix(-1, 0, 0, -1, 0, 0)",
+    "maxHeightSource": "CSS custom property --max-height set inline by server",
+    "prefersReducedMotion": false
+  },
+  "ariaAttributes": {
+    "input": "none (visually hidden checkbox, announced as checkbox by screen readers)",
+    "label": "none",
+    "missing": ["aria-expanded", "aria-controls", "role=button or role=heading on trigger", "state announcements"]
+  },
+  "schemaOrg": null
+}

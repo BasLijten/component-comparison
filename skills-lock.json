@@ -20,6 +20,11 @@
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
       "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    },
+    "deep-analysis": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "322f180fc61b150b7694514f84e68b56bfeeee92a84cf52271af96cbcbd8731d"
     }
   }
 }
