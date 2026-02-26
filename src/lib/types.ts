@@ -7,6 +7,7 @@ export interface BrandConfig {
 export interface ComponentPage {
   url: string;
   filename: string;
+  occurrences?: number;
 }
 
 export interface Component {
@@ -31,6 +32,29 @@ export interface BrandData {
   config: BrandConfig;
   report: BrandReport;
   selectors: Record<string, ComponentSelector>;
+}
+
+export interface PageComponent {
+  name: string;
+  screenshotUrl: string | null;
+  count: number;
+  selector: string | null;
+  pageCount: number;
+}
+
+export interface PageEntry {
+  brand: string;
+  brandName: string;
+  url: string;
+  filename: string;
+  components: PageComponent[];
+}
+
+export interface ConfirmedPair {
+  brandA: string;
+  componentA: string;
+  brandB: string;
+  componentB: string;
 }
 
 export interface SimilaritySignals {

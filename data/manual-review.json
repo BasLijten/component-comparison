@@ -30,7 +30,9 @@
     "fbto::Afbeelding titel blok::cb::Lead generatie v1": "rejected",
     "fbto::Accordeon block::fbto::Accordeon container": "confirmed",
     "fbto::Accordeon block::cb::Content accordion v1": "confirmed",
-    "fbto::Chat Widget::cb::Chat": "confirmed"
+    "fbto::Chat Widget::cb::Chat": "confirmed",
+    "fbto::Content Block::cb::Content v1": "confirmed",
+    "fbto::Accordeon block::cb::Focus accordion v1": "confirmed"
   },
   "manualPairs": [
     {

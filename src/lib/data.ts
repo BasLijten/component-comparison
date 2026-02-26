@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { BRANDS } from './brands';
-import type { BrandConfig, BrandData, BrandReport, ComponentSelector, SimilarityPair, SimilarityData } from './types';
+import type { BrandConfig, BrandData, BrandReport, ComponentSelector, SimilarityPair, SimilarityData, PageEntry, ConfirmedPair } from './types';
 
 const DATA_ROOT = path.join(process.cwd(), '..', 'data');
 
@@ -67,6 +67,25 @@ export function buildPairKey(pair: SimilarityPair): string {
   return `${pair.brandA}::${pair.componentA}::${pair.brandB}::${pair.componentB}`;
 }
 
+export function getConfirmedPairs(): ConfirmedPair[] {
+  const filePath = path.join(DATA_ROOT, 'manual-review.json');
+  let reviews: Record<string, 'confirmed' | 'rejected'> = {};
+  try {
+    reviews = readJson<{ reviews: Record<string, 'confirmed' | 'rejected'> }>(filePath).reviews ?? {};
+  } catch {
+    reviews = {};
+  }
+
+  return getSimilarityData().pairs
+    .filter((pair) => reviews[buildPairKey(pair)] === 'confirmed')
+    .map(({ brandA, componentA, brandB, componentB }) => ({
+      brandA,
+      componentA,
+      brandB,
+      componentB,
+    }));
+}
+
 /** Build a lookup: componentKey ("brand::name") -> similarity pairs */
 export function buildSimilarityLookup(): Map<string, SimilarityPair[]> {
   const data = getSimilarityData();
@@ -80,4 +99,41 @@ export function buildSimilarityLookup(): Map<string, SimilarityPair[]> {
     lookup.get(keyB)!.push(pair);
   }
   return lookup;
+}
+
+/** Invert component→pages into page→components across all brands */
+export function getAllPagesData(): PageEntry[] {
+  const brandsData = getAllBrandsData();
+  const pagesMap = new Map<string, PageEntry>();
+
+  for (const { config, report, selectors } of brandsData) {
+    for (const component of Object.values(report.components)) {
+      for (const page of component.pages) {
+        const key = `${config.id}::${page.url}`;
+        if (!pagesMap.has(key)) {
+          pagesMap.set(key, {
+            brand: config.id,
+            brandName: config.name,
+            url: page.url,
+            filename: page.filename,
+            components: [],
+          });
+        }
+        pagesMap.get(key)!.components.push({
+          name: component.name,
+          screenshotUrl: getScreenshotUrl(config.id, component.name),
+          count: component.count,
+          selector: selectors[component.name]?.selector ?? null,
+          pageCount: page.occurrences ?? 1,
+        });
+      }
+    }
+  }
+
+  const pages = Array.from(pagesMap.values());
+  // Sort components alphabetically within each page
+  for (const page of pages) {
+    page.components.sort((a, b) => a.name.localeCompare(b.name));
+  }
+  return pages.sort((a, b) => a.url.localeCompare(b.url));
 }
